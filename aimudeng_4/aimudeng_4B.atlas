@@ -1,0 +1,13 @@
+
+aimudeng_4B.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_all
+  rotate: 180
+  xy: 2, 3
+  size: 1970, 1601
+  orig: 1970, 1601
+  offset: 0, 0
+  index: -1
