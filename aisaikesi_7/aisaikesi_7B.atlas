@@ -1,0 +1,293 @@
+
+aisaikesi_7B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EyeM1
+  rotate: true
+  xy: 4055, 259
+  size: 58, 38
+  orig: 58, 38
+  offset: 0, 0
+  index: -1
+EyeM2
+  rotate: false
+  xy: 3931, 1793
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+EyeM3
+  rotate: true
+  xy: 4055, 211
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+EyeM4
+  rotate: false
+  xy: 3418, 983
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+EyeM5
+  rotate: true
+  xy: 3415, 963
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+EyeM6
+  rotate: false
+  xy: 3390, 959
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+EyeM7
+  rotate: false
+  xy: 4055, 319
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+EyeM8
+  rotate: true
+  xy: 3437, 966
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1
+EyeM9
+  rotate: false
+  xy: 3534, 1438
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+beijingtoufa
+  rotate: false
+  xy: 3563, 982
+  size: 400, 572
+  orig: 400, 572
+  offset: 0, 0
+  index: -1
+beijingxianggelila
+  rotate: true
+  xy: 2319, 555
+  size: 905, 894
+  orig: 905, 894
+  offset: 0, 0
+  index: -1
+beijingyizi
+  rotate: true
+  xy: 3372, 2055
+  size: 869, 718
+  orig: 869, 718
+  offset: 0, 0
+  index: -1
+beijingzhedang1
+  rotate: true
+  xy: 530, 633
+  size: 576, 388
+  orig: 576, 388
+  offset: 0, 0
+  index: -1
+beijingzhedang2
+  rotate: true
+  xy: 3931, 1825
+  size: 228, 138
+  orig: 228, 138
+  offset: 0, 0
+  index: -1
+guantouyingzi
+  rotate: true
+  xy: 3965, 1437
+  size: 386, 110
+  orig: 386, 110
+  offset: 0, 0
+  index: -1
+haidaomaozi
+  rotate: true
+  xy: 530, 224
+  size: 407, 349
+  orig: 407, 349
+  offset: 0, 0
+  index: -1
+huangxiangliuhai
+  rotate: true
+  xy: 475, 338
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+huanyingbizi
+  rotate: false
+  xy: 4055, 168
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+juliguang2
+  rotate: true
+  xy: 3965, 1290
+  size: 145, 124
+  orig: 145, 124
+  offset: 0, 0
+  index: -1
+menbanBG
+  rotate: true
+  xy: 2, 398
+  size: 811, 526
+  orig: 811, 526
+  offset: 0, 0
+  index: -1
+menbanH
+  rotate: false
+  xy: 2, 1211
+  size: 2315, 1713
+  orig: 2315, 1713
+  offset: 0, 0
+  index: -1
+menbanchuang
+  rotate: true
+  xy: 3215, 103
+  size: 853, 594
+  orig: 853, 594
+  offset: 0, 0
+  index: -1
+menbanren1
+  rotate: false
+  xy: 2319, 1462
+  size: 1051, 1462
+  orig: 1051, 1462
+  offset: 0, 0
+  index: -1
+menbanren_hair1
+  rotate: true
+  xy: 3965, 1127
+  size: 161, 108
+  orig: 161, 108
+  offset: 0, 0
+  index: -1
+menbanren_hair2
+  rotate: true
+  xy: 3372, 1477
+  size: 77, 189
+  orig: 77, 189
+  offset: 0, 0
+  index: -1
+menbanren_hair3
+  rotate: false
+  xy: 4032, 1007
+  size: 58, 118
+  orig: 58, 118
+  offset: 0, 0
+  index: -1
+menbanren_hair4
+  rotate: false
+  xy: 3965, 1000
+  size: 65, 125
+  orig: 65, 125
+  offset: 0, 0
+  index: -1
+menbanren_hair5
+  rotate: false
+  xy: 3525, 964
+  size: 34, 95
+  orig: 34, 95
+  offset: 0, 0
+  index: -1
+menbanren_houfa
+  rotate: false
+  xy: 3372, 1556
+  size: 557, 497
+  orig: 557, 497
+  offset: 0, 0
+  index: -1
+menbanren_xiuzi
+  rotate: false
+  xy: 3390, 1061
+  size: 142, 414
+  orig: 142, 414
+  offset: 0, 0
+  index: -1
+paopaokuang1
+  rotate: false
+  xy: 3418, 1010
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+xiuzi
+  rotate: false
+  xy: 3390, 995
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+yanjingfanguang
+  rotate: true
+  xy: 3467, 958
+  size: 101, 56
+  orig: 101, 56
+  offset: 0, 0
+  index: -1
+zawu1
+  rotate: true
+  xy: 3811, 29
+  size: 331, 242
+  orig: 331, 242
+  offset: 0, 0
+  index: -1
+zawu2
+  rotate: false
+  xy: 373, 26
+  size: 100, 370
+  orig: 100, 370
+  offset: 0, 0
+  index: -1
+zawu3
+  rotate: false
+  xy: 3811, 362
+  size: 249, 296
+  orig: 249, 296
+  offset: 0, 0
+  index: -1
+zawu4
+  rotate: true
+  xy: 3811, 660
+  size: 320, 282
+  orig: 320, 282
+  offset: 0, 0
+  index: -1
+zawu5
+  rotate: true
+  xy: 881, 274
+  size: 357, 294
+  orig: 357, 294
+  offset: 0, 0
+  index: -1
+zawu6
+  rotate: true
+  xy: 920, 1008
+  size: 201, 287
+  orig: 201, 287
+  offset: 0, 0
+  index: -1
+zawu7
+  rotate: true
+  xy: 3215, 958
+  size: 502, 173
+  orig: 502, 173
+  offset: 0, 0
+  index: -1
+zawu8
+  rotate: false
+  xy: 2, 2
+  size: 369, 394
+  orig: 369, 394
+  offset: 0, 0
+  index: -1
