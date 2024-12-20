@@ -1,0 +1,678 @@
+
+guandaoB.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_cloud2
+  rotate: false
+  xy: 2, 2957
+  size: 1732, 847
+  orig: 1732, 847
+  offset: 0, 0
+  index: -1
+eff_bodylight
+  rotate: false
+  xy: 2314, 40
+  size: 542, 271
+  orig: 542, 271
+  offset: 0, 0
+  index: -1
+eff_burst_gn_1
+  rotate: false
+  xy: 1736, 2395
+  size: 426, 655
+  orig: 426, 655
+  offset: 0, 0
+  index: -1
+eff_burst_gn_2
+  rotate: false
+  xy: 1069, 2418
+  size: 587, 537
+  orig: 587, 537
+  offset: 0, 0
+  index: -1
+eff_burst_light2
+  rotate: false
+  xy: 488, 841
+  size: 1596, 374
+  orig: 1596, 558
+  offset: 0, 0
+  index: -1
+eff_eyelight
+  rotate: false
+  xy: 2252, 3714
+  size: 234, 90
+  orig: 234, 90
+  offset: 0, 0
+  index: -1
+eff_guang
+  rotate: false
+  xy: 211, 2629
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+eff_smog_arm_r_12
+  rotate: false
+  xy: 1348, 1759
+  size: 626, 635
+  orig: 626, 680
+  offset: 0, 0
+  index: -1
+eff_smog_arm_r_2
+  rotate: true
+  xy: 2, 1599
+  size: 1050, 758
+  orig: 1050, 758
+  offset: 0, 0
+  index: -1
+eff_smog_body_1
+  rotate: false
+  xy: 974, 7
+  size: 426, 266
+  orig: 426, 266
+  offset: 0, 0
+  index: -1
+eff_smog_body_2
+  rotate: false
+  xy: 1702, 10
+  size: 164, 192
+  orig: 164, 192
+  offset: 0, 0
+  index: -1
+eff_smog_body_3
+  rotate: false
+  xy: 682, 13
+  size: 138, 238
+  orig: 138, 238
+  offset: 0, 0
+  index: -1
+eff_smog_burst_12
+  rotate: 180
+  xy: 1355, 402
+  size: 895, 299
+  orig: 895, 367
+  offset: 0, 0
+  index: -1
+eff_smog_lshoulder_1
+  rotate: false
+  xy: 2294, 203
+  size: 579, 457
+  orig: 579, 457
+  offset: 0, 0
+  index: -1
+eff_smog_lshoulder_2
+  rotate: false
+  xy: 1961, 268
+  size: 906, 492
+  orig: 906, 492
+  offset: 0, 0
+  index: -1
+eff_smog_lshoulder_3
+  rotate: false
+  xy: 798, 191
+  size: 544, 361
+  orig: 544, 361
+  offset: 0, 0
+  index: -1
+eff_smog_rshoulder_1
+  rotate: false
+  xy: 1464, 46
+  size: 343, 185
+  orig: 343, 185
+  offset: 0, 0
+  index: -1
+eff_smog_rshoulder_2
+  rotate: false
+  xy: 550, 1519
+  size: 204, 80
+  orig: 204, 80
+  offset: 0, 0
+  index: -1
+eff_smog_rshoulder_3
+  rotate: false
+  xy: 932, 2487
+  size: 106, 46
+  orig: 106, 46
+  offset: 0, 0
+  index: -1
+mech_shoulder_r_2
+  rotate: false
+  xy: 310, 900
+  size: 186, 201
+  orig: 186, 201
+  offset: 0, 0
+  index: -1
+mecha_arm_l_1
+  rotate: false
+  xy: 385, 270
+  size: 288, 404
+  orig: 288, 404
+  offset: 0, 0
+  index: -1
+mecha_arm_l_2
+  rotate: 180
+  xy: 1983, 1963
+  size: 732, 856
+  orig: 732, 856
+  offset: 0, 0
+  index: -1
+mecha_arm_l_armor
+  rotate: false
+  xy: 1976, 2214
+  size: 102, 179
+  orig: 102, 179
+  offset: 0, 0
+  index: -1
+mecha_arm_l_tie
+  rotate: false
+  xy: 2714, 1882
+  size: 116, 251
+  orig: 116, 251
+  offset: 0, 0
+  index: -1
+mecha_arm_r_1
+  rotate: 180
+  xy: 576, 554
+  size: 789, 358
+  orig: 789, 420
+  offset: 0, 0
+  index: -1
+mecha_arm_r_1_0
+  rotate: false
+  xy: 210, 10
+  size: 203, 156
+  orig: 203, 156
+  offset: 0, 0
+  index: -1
+mecha_arm_r_2_0
+  rotate: false
+  xy: 2, 102
+  size: 252, 231
+  orig: 252, 231
+  offset: 0, 0
+  index: -1
+mecha_arm_r_2_1
+  rotate: false
+  xy: 2, 1610
+  size: 1584, 1346
+  orig: 1584, 1346
+  offset: 0, 0
+  index: -1
+mecha_arm_r_2_2
+  rotate: false
+  xy: 2, 2672
+  size: 132, 187
+  orig: 185, 187
+  offset: 0, 0
+  index: -1
+mecha_back_armor_l
+  rotate: true
+  xy: 1641, 1284
+  size: 862, 685
+  orig: 862, 685
+  offset: 0, 0
+  index: -1
+mecha_back_armor_m
+  rotate: 270
+  xy: 2634, 1224
+  size: 657, 238
+  orig: 657, 238
+  offset: 0, 0
+  index: -1
+mecha_back_armor_r
+  rotate: false
+  xy: 762, 1138
+  size: 969, 848
+  orig: 969, 848
+  offset: 0, 0
+  index: -1
+mecha_body_0
+  rotate: true
+  xy: 2, 453
+  size: 648, 452
+  orig: 648, 452
+  offset: 0, 0
+  index: -1
+mecha_body_0_1
+  rotate: false
+  xy: 441, 2847
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+mecha_body_0_2
+  rotate: false
+  xy: 111, 2913
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+mecha_body_1
+  rotate: false
+  xy: 1491, 1463
+  size: 231, 216
+  orig: 231, 216
+  offset: 0, 0
+  index: -1
+mecha_body_2
+  rotate: true
+  xy: 2434, 1080
+  size: 540, 415
+  orig: 550, 415
+  offset: 10, 0
+  index: -1
+mecha_body_3
+  rotate: false
+  xy: 2394, 2711
+  size: 289, 451
+  orig: 289, 451
+  offset: 0, 0
+  index: -1
+mecha_body_5
+  rotate: false
+  xy: 820, 2889
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+mecha_body_6
+  rotate: false
+  xy: 2272, 2169
+  size: 154, 178
+  orig: 154, 178
+  offset: 0, 0
+  index: -1
+mecha_body_7
+  rotate: false
+  xy: 2625, 16
+  size: 232, 267
+  orig: 232, 267
+  offset: 0, 0
+  index: -1
+mecha_body_8
+  rotate: true
+  xy: 2, 265
+  size: 286, 384
+  orig: 286, 384
+  offset: 0, 0
+  index: -1
+mecha_body_c1
+  rotate: false
+  xy: 51, 2053
+  size: 50, 143
+  orig: 50, 143
+  offset: 0, 0
+  index: -1
+mecha_body_c2
+  rotate: false
+  xy: 321, 2804
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+mecha_body_c3
+  rotate: false
+  xy: 2, 2039
+  size: 39, 120
+  orig: 39, 120
+  offset: 0, 0
+  index: -1
+mecha_body_core
+  rotate: false
+  xy: 370, 2848
+  size: 151, 107
+  orig: 151, 107
+  offset: 0, 0
+  index: -1
+mecha_burst_1
+  rotate: 270
+  xy: 1747, 678
+  size: 412, 609
+  orig: 458, 630
+  offset: 0, 21
+  index: -1
+mecha_burst_1_1
+  rotate: false
+  xy: 203, 2329
+  size: 277, 217
+  orig: 277, 217
+  offset: 0, 0
+  index: -1
+mecha_burst_1_2
+  rotate: false
+  xy: 415, 13
+  size: 266, 173
+  orig: 266, 173
+  offset: 0, 0
+  index: -1
+mecha_burst_1_3
+  rotate: false
+  xy: 1154, 200
+  size: 453, 195
+  orig: 453, 195
+  offset: 0, 0
+  index: -1
+mecha_burst_2
+  rotate: false
+  xy: 2328, 1846
+  size: 434, 361
+  orig: 434, 386
+  offset: 0, 0
+  index: -1
+mecha_burst_3
+  rotate: true
+  xy: 2, 1102
+  size: 495, 546
+  orig: 495, 546
+  offset: 0, 0
+  index: -1
+mecha_burst_4
+  rotate: 180
+  xy: 550, 1118
+  size: 502, 495
+  orig: 502, 495
+  offset: 0, 0
+  index: -1
+mecha_burst_4_2
+  rotate: false
+  xy: 888, 2764
+  size: 171, 192
+  orig: 171, 230
+  offset: 0, 38
+  index: -1
+mecha_burst_fire_12
+  rotate: false
+  xy: 1415, 4
+  size: 897, 443
+  orig: 897, 443
+  offset: 0, 0
+  index: -1
+mecha_burst_fire_22
+  rotate: false
+  xy: 1566, 67
+  size: 723, 353
+  orig: 804, 406
+  offset: 0, 0
+  index: -1
+mecha_cannon_body_1_1
+  rotate: false
+  xy: 2, 2162
+  size: 76, 145
+  orig: 76, 145
+  offset: 0, 0
+  index: -1
+mecha_cannon_body_1_2
+  rotate: false
+  xy: 1276, 24
+  size: 450, 247
+  orig: 450, 247
+  offset: 0, 0
+  index: -1
+mecha_cannon_body_2_1
+  rotate: false
+  xy: 1658, 2812
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+mecha_cannon_body_2_2
+  rotate: true
+  xy: 2626, 2737
+  size: 437, 231
+  orig: 437, 231
+  offset: 0, 0
+  index: -1
+mecha_cannon_body_3_1
+  rotate: false
+  xy: 1658, 2670
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+mecha_cannon_body_3_2
+  rotate: true
+  xy: 2657, 3096
+  size: 429, 226
+  orig: 429, 226
+  offset: 0, 0
+  index: -1
+mecha_cannon_ls_1
+  rotate: false
+  xy: 1553, 1710
+  size: 245, 47
+  orig: 245, 47
+  offset: 0, 0
+  index: -1
+mecha_cannon_ls_2
+  rotate: false
+  xy: 130, 1599
+  size: 245, 48
+  orig: 245, 48
+  offset: 0, 0
+  index: -1
+mecha_cannon_ls_3
+  rotate: false
+  xy: 1301, 2366
+  size: 246, 50
+  orig: 246, 50
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs
+  rotate: false
+  xy: 379, 2630
+  size: 507, 326
+  orig: 507, 326
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_1_1
+  rotate: false
+  xy: 1658, 2485
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_1_2
+  rotate: false
+  xy: 247, 2562
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_1_3
+  rotate: false
+  xy: 1563, 5
+  size: 211, 137
+  orig: 211, 137
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_2_1
+  rotate: false
+  xy: 1975, 3523
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_2_2
+  rotate: false
+  xy: 463, 2313
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_2_3
+  rotate: false
+  xy: 760, 25
+  size: 208, 141
+  orig: 208, 158
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_3_1
+  rotate: false
+  xy: 1658, 2577
+  size: 69, 91
+  orig: 69, 91
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_3_2
+  rotate: false
+  xy: 747, 2583
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+mecha_cannon_rs_3_3
+  rotate: false
+  xy: 474, 963
+  size: 207, 139
+  orig: 207, 139
+  offset: 0, 0
+  index: -1
+mecha_front_armor
+  rotate: false
+  xy: 623, 210
+  size: 306, 282
+  orig: 333, 305
+  offset: 0, 23
+  index: -1
+mecha_fuelcan_l
+  rotate: false
+  xy: 2004, 3175
+  size: 732, 629
+  orig: 732, 629
+  offset: 0, 0
+  index: -1
+mecha_fuelcan_r
+  rotate: true
+  xy: 2252, 437
+  size: 641, 556
+  orig: 641, 556
+  offset: 0, 0
+  index: -1
+mecha_head
+  rotate: false
+  xy: 920, 26
+  size: 249, 288
+  orig: 249, 288
+  offset: 0, 0
+  index: -1
+mecha_kua
+  rotate: false
+  xy: 2, 1605
+  size: 281, 442
+  orig: 281, 442
+  offset: 0, 0
+  index: -1
+mecha_neck
+  rotate: false
+  xy: 240, 2846
+  size: 128, 109
+  orig: 128, 109
+  offset: 0, 0
+  index: -1
+mecha_shield_ls
+  rotate: true
+  xy: 2342, 3522
+  size: 282, 493
+  orig: 282, 493
+  offset: 0, 0
+  index: -1
+mecha_shield_rs
+  rotate: true
+  xy: 2086, 1054
+  size: 816, 360
+  orig: 842, 360
+  offset: 26, 0
+  index: -1
+mecha_shoulder_l
+  rotate: false
+  xy: 806, 2507
+  size: 259, 263
+  orig: 259, 263
+  offset: 0, 0
+  index: -1
+mecha_shoulder_r_0
+  rotate: false
+  xy: 2459, 2208
+  size: 382, 353
+  orig: 382, 376
+  offset: 0, 23
+  index: -1
+mecha_shoulder_r_1
+  rotate: false
+  xy: 1736, 3417
+  size: 175, 166
+  orig: 175, 166
+  offset: 0, 0
+  index: -1
+mecha_shoulder_r_1_0
+  rotate: false
+  xy: 163, 2886
+  size: 58, 69
+  orig: 58, 69
+  offset: 0, 0
+  index: -1
+mecha_shoulder_r_pipe_1
+  rotate: false
+  xy: 293, 2528
+  size: 29, 56
+  orig: 29, 56
+  offset: 0, 0
+  index: -1
+mecha_shoulder_r_pipe_2
+  rotate: false
+  xy: 777, 2911
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+mecha_side_armor_l
+  rotate: true
+  xy: 1736, 3059
+  size: 305, 266
+  orig: 305, 266
+  offset: 0, 0
+  index: -1
+mecha_side_armor_r
+  rotate: 270
+  xy: 1913, 2601
+  size: 926, 494
+  orig: 926, 494
+  offset: 0, 0
+  index: -1
+mecha_side_burst_1
+  rotate: false
+  xy: 762, 1991
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+mecha_side_burst_2
+  rotate: false
+  xy: 1658, 2408
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+mecha_tie_l
+  rotate: false
+  xy: 51, 27
+  size: 157, 118
+  orig: 157, 123
+  offset: 0, 0
+  index: -1
+mecha_tie_r_1
+  rotate: false
+  xy: 1736, 3584
+  size: 238, 220
+  orig: 238, 220
+  offset: 0, 0
+  index: -1
+mecha_tie_r_2
+  rotate: false
+  xy: 149, 2567
+  size: 96, 141
+  orig: 96, 164
+  offset: 0, 0
+  index: -1
