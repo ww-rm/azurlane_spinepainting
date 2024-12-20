@@ -1,0 +1,76 @@
+
+bisimaiZ_2M.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_all_2
+  rotate: true
+  xy: 2298, 3216
+  size: 490, 680
+  orig: 490, 680
+  offset: 0, 0
+  index: -1
+ripple_3
+  rotate: false
+  xy: 1210, 3612
+  size: 157, 94
+  orig: 157, 94
+  offset: 0, 0
+  index: -1
+ripple_3_2
+  rotate: false
+  xy: 1051, 3624
+  size: 157, 82
+  orig: 157, 82
+  offset: 0, 0
+  index: -1
+ripple_4
+  rotate: false
+  xy: 2, 2864
+  size: 1515, 660
+  orig: 1515, 660
+  offset: 0, 0
+  index: -1
+scene3
+  rotate: false
+  xy: 1519, 2221
+  size: 1664, 993
+  orig: 1664, 993
+  offset: 0, 0
+  index: -1
+scene5
+  rotate: false
+  xy: 2, 3651
+  size: 1047, 55
+  orig: 1047, 55
+  offset: 0, 0
+  index: -1
+scene6
+  rotate: false
+  xy: 1369, 3526
+  size: 927, 180
+  orig: 927, 180
+  offset: 0, 0
+  index: -1
+sw_pool
+  rotate: false
+  xy: 2, 2
+  size: 2382, 1191
+  orig: 2382, 1191
+  offset: 0, 0
+  index: -1
+sw_pool_3
+  rotate: false
+  xy: 1505, 1195
+  size: 1797, 1024
+  orig: 1797, 1024
+  offset: 0, 0
+  index: -1
+sw_pool_inverted
+  rotate: false
+  xy: 2, 1806
+  size: 1501, 1056
+  orig: 1501, 1056
+  offset: 0, 0
+  index: -1

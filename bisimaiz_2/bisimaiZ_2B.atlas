@@ -1,0 +1,20 @@
+
+bisimaiZ_2B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow_body
+  rotate: false
+  xy: 2, 2
+  size: 2366, 1795
+  orig: 2366, 1795
+  offset: 0, 0
+  index: -1
+scene
+  rotate: false
+  xy: 2, 1799
+  size: 3250, 1933
+  orig: 3250, 1933
+  offset: 0, 0
+  index: -1
