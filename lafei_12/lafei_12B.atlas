@@ -1,0 +1,13 @@
+
+lafei_12B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_9
+  rotate: false
+  xy: 2, 2
+  size: 3728, 2787
+  orig: 3728, 2787
+  offset: 0, 0
+  index: -1
