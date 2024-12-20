@@ -1,0 +1,62 @@
+
+yukechengIIT.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fg_cloud1
+  rotate: true
+  xy: 639, 466
+  size: 1572, 759
+  orig: 1572, 759
+  offset: 0, 0
+  index: -1
+Fg_dot
+  rotate: true
+  xy: 2230, 285
+  size: 628, 553
+  orig: 628, 553
+  offset: 0, 0
+  index: -1
+Fg_guang1
+  rotate: true
+  xy: 1726, 91
+  size: 822, 502
+  orig: 822, 502
+  offset: 0, 0
+  index: -1
+Fg_guang2
+  rotate: true
+  xy: 2, 2
+  size: 183, 109
+  orig: 183, 109
+  offset: 0, 0
+  index: -1
+Fg_hua1
+  rotate: true
+  xy: 113, 142
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+Fg_hua2
+  rotate: true
+  xy: 1400, 915
+  size: 1123, 846
+  orig: 1123, 846
+  offset: 0, 0
+  index: -1
+Fg_hua3
+  rotate: false
+  xy: 639, 99
+  size: 1085, 365
+  orig: 1085, 365
+  offset: 0, 0
+  index: -1
+Fg_zhuzi1
+  rotate: false
+  xy: 2, 187
+  size: 635, 1851
+  orig: 635, 1851
+  offset: 0, 0
+  index: -1
