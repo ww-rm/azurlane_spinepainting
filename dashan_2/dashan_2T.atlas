@@ -1,0 +1,20 @@
+
+dashan_2T.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_1_00010
+  rotate: false
+  xy: 2, 2
+  size: 1396, 890
+  orig: 1920, 1080
+  offset: 262, 95
+  index: -1
+bowen
+  rotate: false
+  xy: 1400, 473
+  size: 381, 419
+  orig: 390, 446
+  offset: 6, 9
+  index: -1
