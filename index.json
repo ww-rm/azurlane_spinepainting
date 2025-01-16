@@ -453,5 +453,20 @@
         "chName": "哈尔福德_血族亲王的限定陪伴日",
         "skelNames": ["haerfude_2"],
         "pages": ["haerfude_2.png", "haerfude_22.png"]
+    },
+    "changmen_6": {
+        "chName": "长门_牵心结缘",
+        "skelNames": ["changmen_6"],
+        "pages": ["changmen_6.png"]
+    },
+    "jianwu_3": {
+        "chName": "建武_妆点，只为今夜",
+        "skelNames": ["jianwu_3"],
+        "pages": ["jianwu_3.png", "jianwu_32.png"]
+    },
+    "qiershazhi_3": {
+        "chName": "奇尔沙治_Springtime Data",
+        "skelNames": ["qiershazhi_3T", "qiershazhi_3B"],
+        "pages": ["qiershazhi_3T.png", "qiershazhi_3B.png", "qiershazhi_3B2.png", "qiershazhi_3B3.png"]
     }
 }
