@@ -1,0 +1,256 @@
+
+qiershazhi_3B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2288
+  size: 3114, 1773
+  orig: 3116, 1774
+  offset: 1, 0
+  index: -1
+caoA
+  rotate: true
+  xy: 3815, 2822
+  size: 405, 240
+  orig: 405, 240
+  offset: 0, 0
+  index: -1
+caoB
+  rotate: true
+  xy: 3853, 3
+  size: 578, 223
+  orig: 578, 223
+  offset: 0, 0
+  index: -1
+caoC
+  rotate: false
+  xy: 3894, 3597
+  size: 160, 116
+  orig: 160, 118
+  offset: 0, 2
+  index: -1
+dengD
+  rotate: true
+  xy: 3118, 2292
+  size: 844, 564
+  orig: 844, 564
+  offset: 0, 0
+  index: -1
+dengE
+  rotate: false
+  xy: 2, 114
+  size: 1390, 419
+  orig: 1393, 423
+  offset: 2, 2
+  index: -1
+dengF
+  rotate: true
+  xy: 3118, 3137
+  size: 924, 774
+  orig: 924, 774
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 535
+  size: 2545, 1751
+  orig: 2546, 1756
+  offset: 1, 4
+  index: -1
+shiA
+  rotate: false
+  xy: 1394, 104
+  size: 837, 429
+  orig: 838, 430
+  offset: 1, 1
+  index: -1
+shiC
+  rotate: true
+  xy: 3684, 2288
+  size: 532, 394
+  orig: 549, 394
+  offset: 0, 0
+  index: -1
+shuC
+  rotate: true
+  xy: 3894, 3230
+  size: 366, 182
+  orig: 366, 182
+  offset: 0, 0
+  index: -1
+shuD
+  rotate: false
+  xy: 2233, 387
+  size: 290, 146
+  orig: 290, 146
+  offset: 0, 0
+  index: -1
+shuE
+  rotate: false
+  xy: 2233, 239
+  size: 290, 146
+  orig: 290, 146
+  offset: 0, 0
+  index: -1
+xingA
+  rotate: true
+  xy: 2549, 2
+  size: 2284, 1302
+  orig: 2285, 1310
+  offset: 0, 8
+  index: -1
+xingB
+  rotate: false
+  xy: 3684, 2915
+  size: 35, 50
+  orig: 37, 52
+  offset: 1, 1
+  index: -1
+xingC
+  rotate: false
+  xy: 3684, 2967
+  size: 35, 50
+  orig: 37, 52
+  offset: 1, 1
+  index: -1
+xingD
+  rotate: false
+  xy: 3684, 2822
+  size: 70, 91
+  orig: 72, 93
+  offset: 1, 1
+  index: -1
+xingE
+  rotate: false
+  xy: 3684, 3019
+  size: 35, 50
+  orig: 37, 52
+  offset: 1, 1
+  index: -1
+
+qiershazhi_3B2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caoD
+  rotate: false
+  xy: 1938, 763
+  size: 414, 424
+  orig: 414, 424
+  offset: 0, 0
+  index: -1
+dengA
+  rotate: false
+  xy: 2355, 3753
+  size: 1494, 325
+  orig: 1494, 325
+  offset: 0, 0
+  index: -1
+dengB
+  rotate: false
+  xy: 2, 428
+  size: 1934, 1241
+  orig: 1941, 1249
+  offset: 3, 5
+  index: -1
+dengC
+  rotate: true
+  xy: 2812, 2410
+  size: 1186, 586
+  orig: 1186, 586
+  offset: 0, 0
+  index: -1
+huiB
+  rotate: false
+  xy: 2, 1671
+  size: 2175, 1246
+  orig: 2175, 1246
+  offset: 0, 0
+  index: -1
+qiao
+  rotate: true
+  xy: 3723, 565
+  size: 1342, 303
+  orig: 1343, 304
+  offset: 0, 1
+  index: -1
+shanA
+  rotate: false
+  xy: 2, 2918
+  size: 2351, 1159
+  orig: 2354, 1159
+  offset: 1, 0
+  index: -1
+shiB
+  rotate: 180
+  xy: 2195, 270
+  size: 1527, 807
+  orig: 1527, 818
+  offset: 0, 11
+  index: -1
+shiD
+  rotate: false
+  xy: 3399, 2410
+  size: 593, 1023
+  orig: 593, 1023
+  offset: 0, 0
+  index: -1
+shuA
+  rotate: 270
+  xy: 3390, 3
+  size: 560, 676
+  orig: 560, 676
+  offset: 0, 0
+  index: -1
+shuB
+  rotate: false
+  xy: 2812, 1078
+  size: 1026, 1330
+  orig: 1026, 1330
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 2355, 642
+  size: 3068, 455
+  orig: 3068, 455
+  offset: 0, 0
+  index: -1
+tideng
+  rotate: false
+  xy: 2, 36
+  size: 1182, 390
+  orig: 1182, 390
+  offset: 0, 0
+  index: -1
+wuB
+  rotate: false
+  xy: 1938, 1190
+  size: 406, 480
+  orig: 406, 480
+  offset: 0, 0
+  index: -1
+
+qiershazhi_3B3.png
+size: 512,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hui
+  rotate: false
+  xy: 2, 473
+  size: 494, 1174
+  orig: 494, 1175
+  offset: 0, 1
+  index: -1
+wuA
+  rotate: true
+  xy: 2, 3
+  size: 469, 500
+  orig: 469, 500
+  offset: 0, 0
+  index: -1
