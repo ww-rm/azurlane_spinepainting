@@ -1,0 +1,41 @@
+
+moermansike_3B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 1671
+  size: 3441, 1932
+  orig: 3441, 1932
+  offset: 0, 0
+  index: -1
+dibanyan
+  rotate: true
+  xy: 2073, 3
+  size: 1627, 422
+  orig: 1627, 422
+  offset: 0, 0
+  index: -1
+kongzhongyan
+  rotate: false
+  xy: 2, 3
+  size: 2070, 1667
+  orig: 2070, 1667
+  offset: 0, 0
+  index: -1
+niao
+  rotate: false
+  xy: 2492, 1440
+  size: 331, 229
+  orig: 407, 348
+  offset: 76, 0
+  index: -1
+shu
+  rotate: true
+  xy: 2497, 514
+  size: 1156, 906
+  orig: 1372, 1173
+  offset: 216, 267
+  index: -1
