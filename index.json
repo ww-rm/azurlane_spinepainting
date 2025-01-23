@@ -478,5 +478,10 @@
         "chName": "摩尔曼斯克_一室幽香",
         "skelNames": ["moermansike_3T"],
         "pages": ["moermansike_3T.png"]
+    },
+    "xinzexi_4": {
+        "chName": "新泽西_Let's Dance！月下起舞！",
+        "skelNames": ["xinzexi_4T"],
+        "pages": ["xinzexi_4T.png", "xinzexi_4T2.png", "xinzexi_4T3.png"]
     }
 }
