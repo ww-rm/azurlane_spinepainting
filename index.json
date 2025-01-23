@@ -473,5 +473,10 @@
         "chName": "领洋者_入浴的小恶魔",
         "skelNames": ["lingyangzhe3_2"],
         "pages": ["lingyangzhe3_2.png"]
+    },
+    "moermansike_3": {
+        "chName": "摩尔曼斯克_一室幽香",
+        "skelNames": ["moermansike_3T"],
+        "pages": ["moermansike_3T.png"]
     }
 }
