@@ -468,5 +468,10 @@
         "chName": "奇尔沙治_Springtime Data",
         "skelNames": ["qiershazhi_3T", "qiershazhi_3B"],
         "pages": ["qiershazhi_3T.png", "qiershazhi_3B.png", "qiershazhi_3B2.png", "qiershazhi_3B3.png"]
+    },
+    "lingyangzhe3_2": {
+        "chName": "领洋者_入浴的小恶魔",
+        "skelNames": ["lingyangzhe3_2"],
+        "pages": ["lingyangzhe3_2.png"]
     }
 }
