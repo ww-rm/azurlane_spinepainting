@@ -1653,6 +1653,15 @@
                             "xinzexi_4T2.png",
                             "xinzexi_4T3.png"
                         ]
+                    },
+                    {
+                        "skelName": "xinzexi_4B.skel",
+                        "atlasName": "xinzexi_4B.atlas",
+                        "pages": [
+                            "xinzexi_4B.png",
+                            "xinzexi_4B2.png",
+                            "xinzexi_4B3.png"
+                        ]
                     }
                 ]
             }
@@ -2053,6 +2062,13 @@
                         "atlasName": "moermansike_3T.atlas",
                         "pages": [
                             "moermansike_3T.png"
+                        ]
+                    },
+                    {
+                        "skelName": "moermansike_3B.skel",
+                        "atlasName": "moermansike_3B.atlas",
+                        "pages": [
+                            "moermansike_3B.png"
                         ]
                     }
                 ]
