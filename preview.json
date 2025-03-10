@@ -1216,5 +1216,15 @@
                 "scale": 2.0
             }
         ]
+    },
+    "balaka_2": {
+        "chName": "巴拉卡少校_死亡之神的戏谑",
+        "spines": [
+            {
+                "skelName": "balaka_2.skel",
+                "atlasName": "balaka_2.atlas",
+                "pages": ["balaka_2.png", "balaka_22.png"]
+            }
+        ]
     }
 }

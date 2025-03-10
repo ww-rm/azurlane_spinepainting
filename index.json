@@ -1713,5 +1713,20 @@
                 ]
             }
         }
+    },
+    "balaka": {
+        "chName": "巴拉卡少校",
+        "skins": {
+            "balaka_2": {
+                "chName": "死亡之神的戏谑",
+                "spines": [
+                    {
+                        "skelName": "balaka_2.skel",
+                        "atlasName": "balaka_2.atlas",
+                        "pages": ["balaka_2.png", "balaka_22.png"]
+                    }
+                ]
+            }
+        }
     }
 }
