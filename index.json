@@ -8,11 +8,7 @@
                     {
                         "skelName": "aerhangeersike_3.skel",
                         "atlasName": "aerhangeersike_3.atlas",
-                        "pages": [
-                            "aerhangeersike_3.png",
-                            "aerhangeersike_32.png",
-                            "aerhangeersike_33.png"
-                        ]
+                        "pages": ["aerhangeersike_3.png", "aerhangeersike_32.png", "aerhangeersike_33.png"]
                     }
                 ]
             }
@@ -27,20 +23,12 @@
                     {
                         "skelName": "aersasi.skel",
                         "atlasName": "aersasi.atlas",
-                        "pages": [
-                            "aersasi.png",
-                            "aersasi2.png",
-                            "aersasi3.png"
-                        ]
+                        "pages": ["aersasi.png", "aersasi2.png", "aersasi3.png"]
                     },
                     {
                         "skelName": "aersasi_hx.skel",
                         "atlasName": "aersasi_hx.atlas",
-                        "pages": [
-                            "aersasi_hx.png",
-                            "aersasi_hx2.png",
-                            "aersasi_hx3.png"
-                        ]
+                        "pages": ["aersasi_hx.png", "aersasi_hx2.png", "aersasi_hx3.png"]
                     }
                 ]
             }
@@ -55,9 +43,7 @@
                     {
                         "skelName": "aidang_6.skel",
                         "atlasName": "aidang_6.atlas",
-                        "pages": [
-                            "aidang_6.png"
-                        ]
+                        "pages": ["aidang_6.png"]
                     }
                 ]
             }
@@ -72,10 +58,7 @@
                     {
                         "skelName": "aierdeliqi_g.skel",
                         "atlasName": "aierdeliqi_g.atlas",
-                        "pages": [
-                            "aierdeliqi_g.png",
-                            "aierdeliqi_g2.png"
-                        ]
+                        "pages": ["aierdeliqi_g.png", "aierdeliqi_g2.png"]
                     }
                 ]
             }
@@ -90,23 +73,17 @@
                     {
                         "skelName": "aijierT.skel",
                         "atlasName": "aijierT.atlas",
-                        "pages": [
-                            "aijierT.png"
-                        ]
+                        "pages": ["aijierT.png"]
                     },
                     {
                         "skelName": "aijierM.skel",
                         "atlasName": "aijierM.atlas",
-                        "pages": [
-                            "aijierM.png"
-                        ]
+                        "pages": ["aijierM.png"]
                     },
                     {
                         "skelName": "aijierB.skel",
                         "atlasName": "aijierB.atlas",
-                        "pages": [
-                            "aijierB.png"
-                        ]
+                        "pages": ["aijierB.png"]
                     }
                 ]
             }
@@ -121,23 +98,17 @@
                     {
                         "skelName": "aimudeng_4T.skel",
                         "atlasName": "aimudeng_4T.atlas",
-                        "pages": [
-                            "aimudeng_4T.png"
-                        ]
+                        "pages": ["aimudeng_4T.png"]
                     },
                     {
                         "skelName": "aimudeng_4M.skel",
                         "atlasName": "aimudeng_4M.atlas",
-                        "pages": [
-                            "aimudeng_4M.png"
-                        ]
+                        "pages": ["aimudeng_4M.png"]
                     },
                     {
                         "skelName": "aimudeng_4B.skel",
                         "atlasName": "aimudeng_4B.atlas",
-                        "pages": [
-                            "aimudeng_4B.png"
-                        ]
+                        "pages": ["aimudeng_4B.png"]
                     }
                 ]
             }
@@ -152,16 +123,12 @@
                     {
                         "skelName": "aisaikesi_7T.skel",
                         "atlasName": "aisaikesi_7T.atlas",
-                        "pages": [
-                            "aisaikesi_7T.png"
-                        ]
+                        "pages": ["aisaikesi_7T.png"]
                     },
                     {
                         "skelName": "aisaikesi_7B.skel",
                         "atlasName": "aisaikesi_7B.atlas",
-                        "pages": [
-                            "aisaikesi_7B.png"
-                        ]
+                        "pages": ["aisaikesi_7B.png"]
                     }
                 ]
             }
@@ -176,9 +143,7 @@
                     {
                         "skelName": "aogusite_3.skel",
                         "atlasName": "aogusite_3.atlas",
-                        "pages": [
-                            "aogusite_3.png"
-                        ]
+                        "pages": ["aogusite_3.png"]
                     }
                 ]
             }
@@ -193,23 +158,17 @@
                     {
                         "skelName": "bailongT.skel",
                         "atlasName": "bailongT.atlas",
-                        "pages": [
-                            "bailongT.png"
-                        ]
+                        "pages": ["bailongT.png"]
                     },
                     {
                         "skelName": "bailongM.skel",
                         "atlasName": "bailongM.atlas",
-                        "pages": [
-                            "bailongM.png"
-                        ]
+                        "pages": ["bailongM.png"]
                     },
                     {
                         "skelName": "bailongB.skel",
                         "atlasName": "bailongB.atlas",
-                        "pages": [
-                            "bailongB.png"
-                        ]
+                        "pages": ["bailongB.png"]
                     }
                 ]
             }
@@ -224,9 +183,7 @@
                     {
                         "skelName": "banerwei_2.skel",
                         "atlasName": "banerwei_2.atlas",
-                        "pages": [
-                            "banerwei_2.png"
-                        ]
+                        "pages": ["banerwei_2.png"]
                     }
                 ]
             }
@@ -241,9 +198,7 @@
                     {
                         "skelName": "beierfasite_9.skel",
                         "atlasName": "beierfasite_9.atlas",
-                        "pages": [
-                            "beierfasite_9.png"
-                        ]
+                        "pages": ["beierfasite_9.png"]
                     }
                 ]
             }
@@ -258,23 +213,17 @@
                     {
                         "skelName": "bisimaiZT.skel",
                         "atlasName": "bisimaiZT.atlas",
-                        "pages": [
-                            "bisimaiZT.png"
-                        ]
+                        "pages": ["bisimaiZT.png"]
                     },
                     {
                         "skelName": "bisimaiZM.skel",
                         "atlasName": "bisimaiZM.atlas",
-                        "pages": [
-                            "bisimaiZM.png"
-                        ]
+                        "pages": ["bisimaiZM.png"]
                     },
                     {
                         "skelName": "bisimaiZB.skel",
                         "atlasName": "bisimaiZB.atlas",
-                        "pages": [
-                            "bisimaiZB.png"
-                        ]
+                        "pages": ["bisimaiZB.png"]
                     }
                 ]
             },
@@ -284,23 +233,17 @@
                     {
                         "skelName": "bisimaiZ_2T.skel",
                         "atlasName": "bisimaiZ_2T.atlas",
-                        "pages": [
-                            "bisimaiZ_2T.png"
-                        ]
+                        "pages": ["bisimaiZ_2T.png"]
                     },
                     {
                         "skelName": "bisimaiZ_2M.skel",
                         "atlasName": "bisimaiZ_2M.atlas",
-                        "pages": [
-                            "bisimaiZ_2M.png"
-                        ]
+                        "pages": ["bisimaiZ_2M.png"]
                     },
                     {
                         "skelName": "bisimaiZ_2B.skel",
                         "atlasName": "bisimaiZ_2B.atlas",
-                        "pages": [
-                            "bisimaiZ_2B.png"
-                        ]
+                        "pages": ["bisimaiZ_2B.png"]
                     }
                 ]
             }
@@ -315,9 +258,7 @@
                     {
                         "skelName": "bulaimodun_6.skel",
                         "atlasName": "bulaimodun_6.atlas",
-                        "pages": [
-                            "bulaimodun_6.png"
-                        ]
+                        "pages": ["bulaimodun_6.png"]
                     }
                 ]
             }
@@ -332,23 +273,17 @@
                     {
                         "skelName": "buleisite_T.skel",
                         "atlasName": "buleisite_T.atlas",
-                        "pages": [
-                            "buleisite_T.png"
-                        ]
+                        "pages": ["buleisite_T.png"]
                     },
                     {
                         "skelName": "buleisite_T_hx.skel",
                         "atlasName": "buleisite_T_hx.atlas",
-                        "pages": [
-                            "buleisite_T_hx.png"
-                        ]
+                        "pages": ["buleisite_T_hx.png"]
                     },
                     {
                         "skelName": "buleisite_B.skel",
                         "atlasName": "buleisite_B.atlas",
-                        "pages": [
-                            "buleisite_B.png"
-                        ]
+                        "pages": ["buleisite_B.png"]
                     }
                 ]
             }
@@ -363,9 +298,7 @@
                     {
                         "skelName": "buli_super.skel",
                         "atlasName": "buli_super.atlas",
-                        "pages": [
-                            "buli_super.png"
-                        ]
+                        "pages": ["buli_super.png"]
                     }
                 ]
             }
@@ -380,23 +313,17 @@
                     {
                         "skelName": "dahuangfengII_2_T.skel",
                         "atlasName": "dahuangfengII_2_T.atlas",
-                        "pages": [
-                            "dahuangfengII_2_T.png"
-                        ]
+                        "pages": ["dahuangfengII_2_T.png"]
                     },
                     {
                         "skelName": "dahuangfengII_2_T_hx.skel",
                         "atlasName": "dahuangfengII_2_T_hx.atlas",
-                        "pages": [
-                            "dahuangfengII_2_T_hx.png"
-                        ]
+                        "pages": ["dahuangfengII_2_T_hx.png"]
                     },
                     {
                         "skelName": "dahuangfengII_2_B.skel",
                         "atlasName": "dahuangfengII_2_B.atlas",
-                        "pages": [
-                            "dahuangfengII_2_B.png"
-                        ]
+                        "pages": ["dahuangfengII_2_B.png"]
                     }
                 ]
             }
@@ -411,16 +338,12 @@
                     {
                         "skelName": "daofengT.skel",
                         "atlasName": "daofengT.atlas",
-                        "pages": [
-                            "daofengT.png"
-                        ]
+                        "pages": ["daofengT.png"]
                     },
                     {
                         "skelName": "daofengB.skel",
                         "atlasName": "daofengB.atlas",
-                        "pages": [
-                            "daofengB.png"
-                        ]
+                        "pages": ["daofengB.png"]
                     }
                 ]
             }
@@ -435,9 +358,7 @@
                     {
                         "skelName": "deleike.skel",
                         "atlasName": "deleike.atlas",
-                        "pages": [
-                            "deleike.png"
-                        ]
+                        "pages": ["deleike.png"]
                     }
                 ]
             }
@@ -452,23 +373,17 @@
                     {
                         "skelName": "diliyasite_3T.skel",
                         "atlasName": "diliyasite_3T.atlas",
-                        "pages": [
-                            "diliyasite_3T.png"
-                        ]
+                        "pages": ["diliyasite_3T.png"]
                     },
                     {
                         "skelName": "diliyasite_3M.skel",
                         "atlasName": "diliyasite_3M.atlas",
-                        "pages": [
-                            "diliyasite_3M.png"
-                        ]
+                        "pages": ["diliyasite_3M.png"]
                     },
                     {
                         "skelName": "diliyasite_3B.skel",
                         "atlasName": "diliyasite_3B.atlas",
-                        "pages": [
-                            "diliyasite_3B.png"
-                        ]
+                        "pages": ["diliyasite_3B.png"]
                     }
                 ]
             }
@@ -483,16 +398,12 @@
                     {
                         "skelName": "duyisibao_2.skel",
                         "atlasName": "duyisibao_2.atlas",
-                        "pages": [
-                            "duyisibao_2.png"
-                        ]
+                        "pages": ["duyisibao_2.png"]
                     },
                     {
                         "skelName": "duyisibao_2B.skel",
                         "atlasName": "duyisibao_2B.atlas",
-                        "pages": [
-                            "duyisibao_2B.png"
-                        ]
+                        "pages": ["duyisibao_2B.png"]
                     }
                 ]
             }
@@ -507,9 +418,7 @@
                     {
                         "skelName": "fage_2.skel",
                         "atlasName": "fage_2.atlas",
-                        "pages": [
-                            "fage_2.png"
-                        ]
+                        "pages": ["fage_2.png"]
                     }
                 ]
             }
@@ -524,16 +433,12 @@
                     {
                         "skelName": "feiteliedadi.skel",
                         "atlasName": "feiteliedadi.atlas",
-                        "pages": [
-                            "feiteliedadi.png"
-                        ]
+                        "pages": ["feiteliedadi.png"]
                     },
                     {
                         "skelName": "feiteliedadi_hx.skel",
                         "atlasName": "feiteliedadi_hx.atlas",
-                        "pages": [
-                            "feiteliedadi_hx.png"
-                        ]
+                        "pages": ["feiteliedadi_hx.png"]
                     }
                 ]
             }
@@ -548,16 +453,12 @@
                     {
                         "skelName": "fengyun_2_T.skel",
                         "atlasName": "fengyun_2_T.atlas",
-                        "pages": [
-                            "fengyun_2_T.png"
-                        ]
+                        "pages": ["fengyun_2_T.png"]
                     },
                     {
                         "skelName": "fengyun_2_B.skel",
                         "atlasName": "fengyun_2_B.atlas",
-                        "pages": [
-                            "fengyun_2_B.png"
-                        ]
+                        "pages": ["fengyun_2_B.png"]
                     }
                 ]
             }
@@ -572,11 +473,7 @@
                     {
                         "skelName": "fulici.skel",
                         "atlasName": "fulici.atlas",
-                        "pages": [
-                            "fulici.png",
-                            "fulici2.png",
-                            "fulici3.png"
-                        ]
+                        "pages": ["fulici.png", "fulici2.png", "fulici3.png"]
                     }
                 ]
             }
@@ -591,9 +488,7 @@
                     {
                         "skelName": "fuluoxiluofu_2.skel",
                         "atlasName": "fuluoxiluofu_2.atlas",
-                        "pages": [
-                            "fuluoxiluofu_2.png"
-                        ]
+                        "pages": ["fuluoxiluofu_2.png"]
                     }
                 ]
             }
@@ -608,10 +503,7 @@
                     {
                         "skelName": "gangyishawa_2.skel",
                         "atlasName": "gangyishawa_2.atlas",
-                        "pages": [
-                            "gangyishawa_2.png",
-                            "gangyishawa_22.png"
-                        ]
+                        "pages": ["gangyishawa_2.png", "gangyishawa_22.png"]
                     }
                 ]
             }
@@ -626,17 +518,12 @@
                     {
                         "skelName": "gaoxiong_6T.skel",
                         "atlasName": "gaoxiong_6T.atlas",
-                        "pages": [
-                            "gaoxiong_6T.png",
-                            "gaoxiong_6T2.png"
-                        ]
+                        "pages": ["gaoxiong_6T.png", "gaoxiong_6T2.png"]
                     },
                     {
                         "skelName": "gaoxiong_6B.skel",
                         "atlasName": "gaoxiong_6B.atlas",
-                        "pages": [
-                            "gaoxiong_6B.png"
-                        ]
+                        "pages": ["gaoxiong_6B.png"]
                     }
                 ]
             }
@@ -651,9 +538,7 @@
                     {
                         "skelName": "geluosite_3.skel",
                         "atlasName": "geluosite_3.atlas",
-                        "pages": [
-                            "geluosite_3.png"
-                        ]
+                        "pages": ["geluosite_3.png"]
                     }
                 ]
             }
@@ -668,16 +553,12 @@
                     {
                         "skelName": "guandaoT.skel",
                         "atlasName": "guandaoT.atlas",
-                        "pages": [
-                            "guandaoT.png"
-                        ]
+                        "pages": ["guandaoT.png"]
                     },
                     {
                         "skelName": "guandaoB.skel",
                         "atlasName": "guandaoB.atlas",
-                        "pages": [
-                            "guandaoB.png"
-                        ]
+                        "pages": ["guandaoB.png"]
                     }
                 ]
             }
@@ -692,9 +573,7 @@
                     {
                         "skelName": "haerbin_3.skel",
                         "atlasName": "haerbin_3.atlas",
-                        "pages": [
-                            "haerbin_3.png"
-                        ]
+                        "pages": ["haerbin_3.png"]
                     }
                 ]
             }
@@ -709,10 +588,7 @@
                     {
                         "skelName": "hemuhao_2.skel",
                         "atlasName": "hemuhao_2.atlas",
-                        "pages": [
-                            "hemuhao_2.png",
-                            "hemuhao_22.png"
-                        ]
+                        "pages": ["hemuhao_2.png", "hemuhao_22.png"]
                     }
                 ]
             }
@@ -727,30 +603,22 @@
                     {
                         "skelName": "huajia_2T.skel",
                         "atlasName": "huajia_2T.atlas",
-                        "pages": [
-                            "huajia_2T.png"
-                        ]
+                        "pages": ["huajia_2T.png"]
                     },
                     {
                         "skelName": "huajia_2T_hx.skel",
                         "atlasName": "huajia_2T_hx.atlas",
-                        "pages": [
-                            "huajia_2T_hx.png"
-                        ]
+                        "pages": ["huajia_2T_hx.png"]
                     },
                     {
                         "skelName": "huajia_2M.skel",
                         "atlasName": "huajia_2M.atlas",
-                        "pages": [
-                            "huajia_2M.png"
-                        ]
+                        "pages": ["huajia_2M.png"]
                     },
                     {
                         "skelName": "huajia_2B.skel",
                         "atlasName": "huajia_2B.atlas",
-                        "pages": [
-                            "huajia_2B.png"
-                        ]
+                        "pages": ["huajia_2B.png"]
                     }
                 ]
             }
@@ -765,18 +633,12 @@
                     {
                         "skelName": "huanchang_2T.skel",
                         "atlasName": "huanchang_2T.atlas",
-                        "pages": [
-                            "huanchang_2T.png",
-                            "huanchang_2T2.png"
-                        ]
+                        "pages": ["huanchang_2T.png", "huanchang_2T2.png"]
                     },
                     {
                         "skelName": "huanchang_2B.skel",
                         "atlasName": "huanchang_2B.atlas",
-                        "pages": [
-                            "huanchang_2B.png",
-                            "huanchang_2B2.png"
-                        ]
+                        "pages": ["huanchang_2B.png", "huanchang_2B2.png"]
                     }
                 ]
             }
@@ -791,16 +653,12 @@
                     {
                         "skelName": "huangjiacaifu_3T.skel",
                         "atlasName": "huangjiacaifu_3T.atlas",
-                        "pages": [
-                            "huangjiacaifu_3T.png"
-                        ]
+                        "pages": ["huangjiacaifu_3T.png"]
                     },
                     {
                         "skelName": "huangjiacaifu_3B.skel",
                         "atlasName": "huangjiacaifu_3B.atlas",
-                        "pages": [
-                            "huangjiacaifu_3B.png"
-                        ]
+                        "pages": ["huangjiacaifu_3B.png"]
                     }
                 ]
             }
@@ -815,11 +673,7 @@
                     {
                         "skelName": "huben_2.skel",
                         "atlasName": "huben_2.atlas",
-                        "pages": [
-                            "huben_2.png",
-                            "huben_22.png",
-                            "huben_23.png"
-                        ]
+                        "pages": ["huben_2.png", "huben_22.png", "huben_23.png"]
                     }
                 ]
             }
@@ -834,9 +688,7 @@
                     {
                         "skelName": "jianye_5.skel",
                         "atlasName": "jianye_5.atlas",
-                        "pages": [
-                            "jianye_5.png"
-                        ]
+                        "pages": ["jianye_5.png"]
                     }
                 ]
             }
@@ -851,10 +703,7 @@
                     {
                         "skelName": "jingang_5.skel",
                         "atlasName": "jingang_5.atlas",
-                        "pages": [
-                            "jingang_5.png",
-                            "jingang_52.png"
-                        ]
+                        "pages": ["jingang_5.png", "jingang_52.png"]
                     }
                 ]
             }
@@ -869,9 +718,7 @@
                     {
                         "skelName": "kaiersheng_2.skel",
                         "atlasName": "kaiersheng_2.atlas",
-                        "pages": [
-                            "kaiersheng_2.png"
-                        ]
+                        "pages": ["kaiersheng_2.png"]
                     }
                 ]
             },
@@ -881,10 +728,7 @@
                     {
                         "skelName": "kaiersheng_3.skel",
                         "atlasName": "kaiersheng_3.atlas",
-                        "pages": [
-                            "kaiersheng_3.png",
-                            "kaiersheng_32.png"
-                        ]
+                        "pages": ["kaiersheng_3.png", "kaiersheng_32.png"]
                     }
                 ]
             }
@@ -899,9 +743,7 @@
                     {
                         "skelName": "kalangshitade.skel",
                         "atlasName": "kalangshitade.atlas",
-                        "pages": [
-                            "kalangshitade.png"
-                        ]
+                        "pages": ["kalangshitade.png"]
                     }
                 ]
             }
@@ -916,17 +758,12 @@
                     {
                         "skelName": "kewei_5T.skel",
                         "atlasName": "kewei_5T.atlas",
-                        "pages": [
-                            "kewei_5T.png"
-                        ]
+                        "pages": ["kewei_5T.png"]
                     },
                     {
                         "skelName": "kewei_5.skel",
                         "atlasName": "kewei_5.atlas",
-                        "pages": [
-                            "kewei_5.png",
-                            "kewei_52.png"
-                        ]
+                        "pages": ["kewei_5.png", "kewei_52.png"]
                     }
                 ]
             }
@@ -941,10 +778,7 @@
                     {
                         "skelName": "lafeiII.skel",
                         "atlasName": "lafeiII.atlas",
-                        "pages": [
-                            "lafeiII.png",
-                            "lafeiII2.png"
-                        ]
+                        "pages": ["lafeiII.png", "lafeiII2.png"]
                     }
                 ]
             }
@@ -959,16 +793,12 @@
                     {
                         "skelName": "lafei_12T.skel",
                         "atlasName": "lafei_12T.atlas",
-                        "pages": [
-                            "lafei_12T.png"
-                        ]
+                        "pages": ["lafei_12T.png"]
                     },
                     {
                         "skelName": "lafei_12B.skel",
                         "atlasName": "lafei_12B.atlas",
-                        "pages": [
-                            "lafei_12B.png"
-                        ]
+                        "pages": ["lafei_12B.png"]
                     }
                 ]
             }
@@ -983,10 +813,7 @@
                     {
                         "skelName": "linglai_2.skel",
                         "atlasName": "linglai_2.atlas",
-                        "pages": [
-                            "linglai_2.png",
-                            "linglai_22.png"
-                        ]
+                        "pages": ["linglai_2.png", "linglai_22.png"]
                     }
                 ]
             }
@@ -1001,9 +828,7 @@
                     {
                         "skelName": "luna_2_doa.skel",
                         "atlasName": "luna_2_doa.atlas",
-                        "pages": [
-                            "luna_2_doa.png"
-                        ]
+                        "pages": ["luna_2_doa.png"]
                     }
                 ]
             }
@@ -1018,9 +843,7 @@
                     {
                         "skelName": "lundun_3.skel",
                         "atlasName": "lundun_3.atlas",
-                        "pages": [
-                            "lundun_3.png"
-                        ]
+                        "pages": ["lundun_3.png"]
                     }
                 ]
             }
@@ -1035,9 +858,7 @@
                     {
                         "skelName": "luyisiweier_2.skel",
                         "atlasName": "luyisiweier_2.atlas",
-                        "pages": [
-                            "luyisiweier_2.png"
-                        ]
+                        "pages": ["luyisiweier_2.png"]
                     }
                 ]
             }
@@ -1052,16 +873,12 @@
                     {
                         "skelName": "mabuerheide_5T.skel",
                         "atlasName": "mabuerheide_5T.atlas",
-                        "pages": [
-                            "mabuerheide_5T.png"
-                        ]
+                        "pages": ["mabuerheide_5T.png"]
                     },
                     {
                         "skelName": "mabuerheide_5B.skel",
                         "atlasName": "mabuerheide_5B.atlas",
-                        "pages": [
-                            "mabuerheide_5B.png"
-                        ]
+                        "pages": ["mabuerheide_5B.png"]
                     }
                 ]
             }
@@ -1076,9 +893,7 @@
                     {
                         "skelName": "masaiqu_2.skel",
                         "atlasName": "masaiqu_2.atlas",
-                        "pages": [
-                            "masaiqu_2.png"
-                        ]
+                        "pages": ["masaiqu_2.png"]
                     }
                 ]
             }
@@ -1093,10 +908,7 @@
                     {
                         "skelName": "mojiaduoer.skel",
                         "atlasName": "mojiaduoer.atlas",
-                        "pages": [
-                            "mojiaduoer.png",
-                            "mojiaduoer2.png"
-                        ]
+                        "pages": ["mojiaduoer.png", "mojiaduoer2.png"]
                     }
                 ]
             }
@@ -1111,10 +923,7 @@
                     {
                         "skelName": "nabulesi.skel",
                         "atlasName": "nabulesi.atlas",
-                        "pages": [
-                            "nabulesi.png",
-                            "nabulesi2.png"
-                        ]
+                        "pages": ["nabulesi.png", "nabulesi2.png"]
                     }
                 ]
             }
@@ -1129,10 +938,7 @@
                     {
                         "skelName": "naximofu.skel",
                         "atlasName": "naximofu.atlas",
-                        "pages": [
-                            "naximofu.png",
-                            "naximofu2.png"
-                        ]
+                        "pages": ["naximofu.png", "naximofu2.png"]
                     }
                 ]
             }
@@ -1147,10 +953,7 @@
                     {
                         "skelName": "ougen_7.skel",
                         "atlasName": "ougen_7.atlas",
-                        "pages": [
-                            "ougen_7.png",
-                            "ougen_72.png"
-                        ]
+                        "pages": ["ougen_7.png", "ougen_72.png"]
                     }
                 ]
             }
@@ -1165,23 +968,17 @@
                     {
                         "skelName": "pulimaosi_T.skel",
                         "atlasName": "pulimaosi_T.atlas",
-                        "pages": [
-                            "pulimaosi_T.png"
-                        ]
+                        "pages": ["pulimaosi_T.png"]
                     },
                     {
                         "skelName": "pulimaosi_M.skel",
                         "atlasName": "pulimaosi_M.atlas",
-                        "pages": [
-                            "pulimaosi_M.png"
-                        ]
+                        "pages": ["pulimaosi_M.png"]
                     },
                     {
                         "skelName": "pulimaosi_B.skel",
                         "atlasName": "pulimaosi_B.atlas",
-                        "pages": [
-                            "pulimaosi_B.png"
-                        ]
+                        "pages": ["pulimaosi_B.png"]
                     }
                 ]
             }
@@ -1196,16 +993,12 @@
                     {
                         "skelName": "qianweiT.skel",
                         "atlasName": "qianweiT.atlas",
-                        "pages": [
-                            "qianweiT.png"
-                        ]
+                        "pages": ["qianweiT.png"]
                     },
                     {
                         "skelName": "qianweiB.skel",
                         "atlasName": "qianweiB.atlas",
-                        "pages": [
-                            "qianweiB.png"
-                        ]
+                        "pages": ["qianweiB.png"]
                     }
                 ]
             }
@@ -1220,10 +1013,7 @@
                     {
                         "skelName": "qiershazhi.skel",
                         "atlasName": "qiershazhi.atlas",
-                        "pages": [
-                            "qiershazhi.png",
-                            "qiershazhi2.png"
-                        ]
+                        "pages": ["qiershazhi.png", "qiershazhi2.png"]
                     }
                 ]
             },
@@ -1233,18 +1023,12 @@
                     {
                         "skelName": "qiershazhi_3T.skel",
                         "atlasName": "qiershazhi_3T.atlas",
-                        "pages": [
-                            "qiershazhi_3T.png"
-                        ]
+                        "pages": ["qiershazhi_3T.png"]
                     },
                     {
                         "skelName": "qiershazhi_3B.skel",
                         "atlasName": "qiershazhi_3B.atlas",
-                        "pages": [
-                            "qiershazhi_3B.png",
-                            "qiershazhi_3B2.png",
-                            "qiershazhi_3B3.png"
-                        ]
+                        "pages": ["qiershazhi_3B.png", "qiershazhi_3B2.png", "qiershazhi_3B3.png"]
                     }
                 ]
             }
@@ -1259,9 +1043,7 @@
                     {
                         "skelName": "shengdiyage_g.skel",
                         "atlasName": "shengdiyage_g.atlas",
-                        "pages": [
-                            "shengdiyage_g.png"
-                        ]
+                        "pages": ["shengdiyage_g.png"]
                     }
                 ]
             }
@@ -1276,13 +1058,7 @@
                     {
                         "skelName": "suweiaitongmengNew.skel",
                         "atlasName": "suweiaitongmengNew.atlas",
-                        "pages": [
-                            "suweiaitongmengNew.png",
-                            "suweiaitongmengNew2.png",
-                            "suweiaitongmengNew3.png",
-                            "suweiaitongmengNew4.png",
-                            "suweiaitongmengNew5.png"
-                        ]
+                        "pages": ["suweiaitongmengNew.png", "suweiaitongmengNew2.png", "suweiaitongmengNew3.png", "suweiaitongmengNew4.png", "suweiaitongmengNew5.png"]
                     }
                 ]
             }
@@ -1297,11 +1073,7 @@
                     {
                         "skelName": "tashigan_4.skel",
                         "atlasName": "tashigan_4.atlas",
-                        "pages": [
-                            "tashigan_4.png",
-                            "tashigan_42.png",
-                            "tashigan_43.png"
-                        ]
+                        "pages": ["tashigan_4.png", "tashigan_42.png", "tashigan_43.png"]
                     }
                 ]
             }
@@ -1316,11 +1088,7 @@
                     {
                         "skelName": "tiancheng_cv.skel",
                         "atlasName": "tiancheng_cv.atlas",
-                        "pages": [
-                            "tiancheng_cv.png",
-                            "tiancheng_cv2.png",
-                            "tiancheng_cv3.png"
-                        ]
+                        "pages": ["tiancheng_cv.png", "tiancheng_cv2.png", "tiancheng_cv3.png"]
                     }
                 ]
             }
@@ -1335,10 +1103,7 @@
                     {
                         "skelName": "tuzuo_3.skel",
                         "atlasName": "tuzuo_3.atlas",
-                        "pages": [
-                            "tuzuo_3.png",
-                            "tuzuo_32.png"
-                        ]
+                        "pages": ["tuzuo_3.png", "tuzuo_32.png"]
                     }
                 ]
             }
@@ -1353,10 +1118,7 @@
                     {
                         "skelName": "u96_4.skel",
                         "atlasName": "u96_4.atlas",
-                        "pages": [
-                            "u96_4.png",
-                            "u96_42.png"
-                        ]
+                        "pages": ["u96_4.png", "u96_42.png"]
                     }
                 ]
             }
@@ -1371,11 +1133,7 @@
                     {
                         "skelName": "weida_2.skel",
                         "atlasName": "weida_2.atlas",
-                        "pages": [
-                            "weida_2.png",
-                            "weida_22.png",
-                            "weida_23.png"
-                        ]
+                        "pages": ["weida_2.png", "weida_22.png", "weida_23.png"]
                     }
                 ]
             }
@@ -1390,23 +1148,17 @@
                     {
                         "skelName": "weizhang_2T.skel",
                         "atlasName": "weizhang_2T.atlas",
-                        "pages": [
-                            "weizhang_2T.png"
-                        ]
+                        "pages": ["weizhang_2T.png"]
                     },
                     {
                         "skelName": "weizhang_2T_hx.skel",
                         "atlasName": "weizhang_2T_hx.atlas",
-                        "pages": [
-                            "weizhang_2T_hx.png"
-                        ]
+                        "pages": ["weizhang_2T_hx.png"]
                     },
                     {
                         "skelName": "weizhang_2B.skel",
                         "atlasName": "weizhang_2B.atlas",
-                        "pages": [
-                            "weizhang_2B.png"
-                        ]
+                        "pages": ["weizhang_2B.png"]
                     }
                 ]
             }
@@ -1421,9 +1173,7 @@
                     {
                         "skelName": "wuerlixi.skel",
                         "atlasName": "wuerlixi.atlas",
-                        "pages": [
-                            "wuerlixi.png"
-                        ]
+                        "pages": ["wuerlixi.png"]
                     }
                 ]
             },
@@ -1433,10 +1183,7 @@
                     {
                         "skelName": "wuerlixi_4.skel",
                         "atlasName": "wuerlixi_4.atlas",
-                        "pages": [
-                            "wuerlixi_4.png",
-                            "wuerlixi_42.png"
-                        ]
+                        "pages": ["wuerlixi_4.png", "wuerlixi_42.png"]
                     }
                 ]
             }
@@ -1451,9 +1198,7 @@
                     {
                         "skelName": "wuqi.skel",
                         "atlasName": "wuqi.atlas",
-                        "pages": [
-                            "wuqi.png"
-                        ]
+                        "pages": ["wuqi.png"]
                     }
                 ]
             }
@@ -1468,58 +1213,42 @@
                     {
                         "skelName": "wuzang1.skel",
                         "atlasName": "wuzang1.atlas",
-                        "pages": [
-                            "wuzang1.png"
-                        ]
+                        "pages": ["wuzang1.png"]
                     },
                     {
                         "skelName": "wuzang2.skel",
                         "atlasName": "wuzang2.atlas",
-                        "pages": [
-                            "wuzang2.png"
-                        ]
+                        "pages": ["wuzang2.png"]
                     },
                     {
                         "skelName": "wuzang3.skel",
                         "atlasName": "wuzang3.atlas",
-                        "pages": [
-                            "wuzang3.png"
-                        ]
+                        "pages": ["wuzang3.png"]
                     },
                     {
                         "skelName": "wuzang3_hx.skel",
                         "atlasName": "wuzang3_hx.atlas",
-                        "pages": [
-                            "wuzang3_hx.png"
-                        ]
+                        "pages": ["wuzang3_hx.png"]
                     },
                     {
                         "skelName": "wuzang4.skel",
                         "atlasName": "wuzang4.atlas",
-                        "pages": [
-                            "wuzang4.png"
-                        ]
+                        "pages": ["wuzang4.png"]
                     },
                     {
                         "skelName": "wuzang5.skel",
                         "atlasName": "wuzang5.atlas",
-                        "pages": [
-                            "wuzang5.png"
-                        ]
+                        "pages": ["wuzang5.png"]
                     },
                     {
                         "skelName": "wuzang6.skel",
                         "atlasName": "wuzang6.atlas",
-                        "pages": [
-                            "wuzang6.png"
-                        ]
+                        "pages": ["wuzang6.png"]
                     },
                     {
                         "skelName": "wuzang7.skel",
                         "atlasName": "wuzang7.atlas",
-                        "pages": [
-                            "wuzang7.png"
-                        ]
+                        "pages": ["wuzang7.png"]
                     }
                 ]
             }
@@ -1534,16 +1263,12 @@
                     {
                         "skelName": "xiafei_3T.skel",
                         "atlasName": "xiafei_3T.atlas",
-                        "pages": [
-                            "xiafei_3T.png"
-                        ]
+                        "pages": ["xiafei_3T.png"]
                     },
                     {
                         "skelName": "xiafei_3B.skel",
                         "atlasName": "xiafei_3B.atlas",
-                        "pages": [
-                            "xiafei_3B.png"
-                        ]
+                        "pages": ["xiafei_3B.png"]
                     }
                 ]
             }
@@ -1558,16 +1283,12 @@
                     {
                         "skelName": "xili_g.skel",
                         "atlasName": "xili_g.atlas",
-                        "pages": [
-                            "xili_g.png"
-                        ]
+                        "pages": ["xili_g.png"]
                     },
                     {
                         "skelName": "xili_g_hx.skel",
                         "atlasName": "xili_g_hx.atlas",
-                        "pages": [
-                            "xili_g_hx.png"
-                        ]
+                        "pages": ["xili_g_hx.png"]
                     }
                 ]
             }
@@ -1582,12 +1303,7 @@
                     {
                         "skelName": "xingdengbao.skel",
                         "atlasName": "xingdengbao.atlas",
-                        "pages": [
-                            "xingdengbao.png",
-                            "xingdengbao2.png",
-                            "xingdengbao3.png",
-                            "xingdengbao4.png"
-                        ]
+                        "pages": ["xingdengbao.png", "xingdengbao2.png", "xingdengbao3.png", "xingdengbao4.png"]
                     }
                 ]
             }
@@ -1602,9 +1318,7 @@
                     {
                         "skelName": "xingzuo_2.skel",
                         "atlasName": "xingzuo_2.atlas",
-                        "pages": [
-                            "xingzuo_2.png"
-                        ]
+                        "pages": ["xingzuo_2.png"]
                     }
                 ]
             }
@@ -1619,16 +1333,12 @@
                     {
                         "skelName": "xinnongT.skel",
                         "atlasName": "xinnongT.atlas",
-                        "pages": [
-                            "xinnongT.png"
-                        ]
+                        "pages": ["xinnongT.png"]
                     },
                     {
                         "skelName": "xinnongB.skel",
                         "atlasName": "xinnongB.atlas",
-                        "pages": [
-                            "xinnongB.png"
-                        ]
+                        "pages": ["xinnongB.png"]
                     }
                 ]
             }
@@ -1643,9 +1353,7 @@
                     {
                         "skelName": "xinzexi.skel",
                         "atlasName": "xinzexi.atlas",
-                        "pages": [
-                            "xinzexi.png"
-                        ]
+                        "pages": ["xinzexi.png"]
                     }
                 ]
             },
@@ -1655,20 +1363,12 @@
                     {
                         "skelName": "xinzexi_4T.skel",
                         "atlasName": "xinzexi_4T.atlas",
-                        "pages": [
-                            "xinzexi_4T.png",
-                            "xinzexi_4T2.png",
-                            "xinzexi_4T3.png"
-                        ]
+                        "pages": ["xinzexi_4T.png", "xinzexi_4T2.png", "xinzexi_4T3.png"]
                     },
                     {
                         "skelName": "xinzexi_4B.skel",
                         "atlasName": "xinzexi_4B.atlas",
-                        "pages": [
-                            "xinzexi_4B.png",
-                            "xinzexi_4B2.png",
-                            "xinzexi_4B3.png"
-                        ]
+                        "pages": ["xinzexi_4B.png", "xinzexi_4B2.png", "xinzexi_4B3.png"]
                     }
                 ]
             }
@@ -1683,9 +1383,7 @@
                     {
                         "skelName": "yaerweite_2.skel",
                         "atlasName": "yaerweite_2.atlas",
-                        "pages": [
-                            "yaerweite_2.png"
-                        ]
+                        "pages": ["yaerweite_2.png"]
                     }
                 ]
             }
@@ -1700,16 +1398,12 @@
                     {
                         "skelName": "yanusi_4.skel",
                         "atlasName": "yanusi_4.atlas",
-                        "pages": [
-                            "yanusi_4.png"
-                        ]
+                        "pages": ["yanusi_4.png"]
                     },
                     {
                         "skelName": "yanusi_4_hx.skel",
                         "atlasName": "yanusi_4_hx.atlas",
-                        "pages": [
-                            "yanusi_4_hx.png"
-                        ]
+                        "pages": ["yanusi_4_hx.png"]
                     }
                 ]
             }
@@ -1724,9 +1418,7 @@
                     {
                         "skelName": "yanzhan_g.skel",
                         "atlasName": "yanzhan_g.atlas",
-                        "pages": [
-                            "yanzhan_g.png"
-                        ]
+                        "pages": ["yanzhan_g.png"]
                     }
                 ]
             }
@@ -1741,9 +1433,7 @@
                     {
                         "skelName": "yindianna_2.skel",
                         "atlasName": "yindianna_2.atlas",
-                        "pages": [
-                            "yindianna_2.png"
-                        ]
+                        "pages": ["yindianna_2.png"]
                     }
                 ]
             }
@@ -1758,23 +1448,17 @@
                     {
                         "skelName": "yixian_2T.skel",
                         "atlasName": "yixian_2T.atlas",
-                        "pages": [
-                            "yixian_2T.png"
-                        ]
+                        "pages": ["yixian_2T.png"]
                     },
                     {
                         "skelName": "yixian_2M.skel",
                         "atlasName": "yixian_2M.atlas",
-                        "pages": [
-                            "yixian_2M.png"
-                        ]
+                        "pages": ["yixian_2M.png"]
                     },
                     {
                         "skelName": "yixian_2B.skel",
                         "atlasName": "yixian_2B.atlas",
-                        "pages": [
-                            "yixian_2B.png"
-                        ]
+                        "pages": ["yixian_2B.png"]
                     }
                 ]
             }
@@ -1789,23 +1473,17 @@
                     {
                         "skelName": "yuanchouT.skel",
                         "atlasName": "yuanchouT.atlas",
-                        "pages": [
-                            "yuanchouT.png"
-                        ]
+                        "pages": ["yuanchouT.png"]
                     },
                     {
                         "skelName": "yuanchouT_hx.skel",
                         "atlasName": "yuanchouT_hx.atlas",
-                        "pages": [
-                            "yuanchouT_hx.png"
-                        ]
+                        "pages": ["yuanchouT_hx.png"]
                     },
                     {
                         "skelName": "yuanchouB.skel",
                         "atlasName": "yuanchouB.atlas",
-                        "pages": [
-                            "yuanchouB.png"
-                        ]
+                        "pages": ["yuanchouB.png"]
                     }
                 ]
             },
@@ -1815,16 +1493,12 @@
                     {
                         "skelName": "yuanchou_2.skel",
                         "atlasName": "yuanchou_2.atlas",
-                        "pages": [
-                            "yuanchou_2.png"
-                        ]
+                        "pages": ["yuanchou_2.png"]
                     },
                     {
                         "skelName": "yuanchou_2_hx.skel",
                         "atlasName": "yuanchou_2_hx.atlas",
-                        "pages": [
-                            "yuanchou_2_hx.png"
-                        ]
+                        "pages": ["yuanchou_2_hx.png"]
                     }
                 ]
             }
@@ -1839,23 +1513,17 @@
                     {
                         "skelName": "yukechengIIT.skel",
                         "atlasName": "yukechengIIT.atlas",
-                        "pages": [
-                            "yukechengIIT.png"
-                        ]
+                        "pages": ["yukechengIIT.png"]
                     },
                     {
                         "skelName": "yukechengIIM.skel",
                         "atlasName": "yukechengIIM.atlas",
-                        "pages": [
-                            "yukechengIIM.png"
-                        ]
+                        "pages": ["yukechengIIM.png"]
                     },
                     {
                         "skelName": "yukechengIIB.skel",
                         "atlasName": "yukechengIIB.atlas",
-                        "pages": [
-                            "yukechengIIB.png"
-                        ]
+                        "pages": ["yukechengIIB.png"]
                     }
                 ]
             },
@@ -1865,16 +1533,12 @@
                     {
                         "skelName": "yuekechengII_2T.skel",
                         "atlasName": "yuekechengII_2T.atlas",
-                        "pages": [
-                            "yuekechengII_2T.png"
-                        ]
+                        "pages": ["yuekechengII_2T.png"]
                     },
                     {
                         "skelName": "yuekechengII_2B.skel",
                         "atlasName": "yuekechengII_2B.atlas",
-                        "pages": [
-                            "yuekechengII_2B.png"
-                        ]
+                        "pages": ["yuekechengII_2B.png"]
                     }
                 ]
             }
@@ -1889,9 +1553,7 @@
                     {
                         "skelName": "yuekegongjue_4.skel",
                         "atlasName": "yuekegongjue_4.atlas",
-                        "pages": [
-                            "yuekegongjue_4.png"
-                        ]
+                        "pages": ["yuekegongjue_4.png"]
                     }
                 ]
             }
@@ -1906,10 +1568,7 @@
                     {
                         "skelName": "yueke_ger_3.skel",
                         "atlasName": "yueke_ger_3.atlas",
-                        "pages": [
-                            "yueke_ger_3.png",
-                            "yueke_ger_32.png"
-                        ]
+                        "pages": ["yueke_ger_3.png", "yueke_ger_32.png"]
                     }
                 ]
             }
@@ -1924,10 +1583,7 @@
                     {
                         "skelName": "yunxian.skel",
                         "atlasName": "yunxian.atlas",
-                        "pages": [
-                            "yunxian.png",
-                            "yunxian2.png"
-                        ]
+                        "pages": ["yunxian.png", "yunxian2.png"]
                     }
                 ]
             }
@@ -1942,9 +1598,7 @@
                     {
                         "skelName": "z52.skel",
                         "atlasName": "z52.atlas",
-                        "pages": [
-                            "z52.png"
-                        ]
+                        "pages": ["z52.png"]
                     }
                 ]
             },
@@ -1954,9 +1608,7 @@
                     {
                         "skelName": "z52_2.skel",
                         "atlasName": "z52_2.atlas",
-                        "pages": [
-                            "z52_2.png"
-                        ]
+                        "pages": ["z52_2.png"]
                     }
                 ]
             }
@@ -1971,18 +1623,12 @@
                     {
                         "skelName": "dashan_2.skel",
                         "atlasName": "dashan_2.atlas",
-                        "pages": [
-                            "dashan_2.png",
-                            "dashan_22.png",
-                            "dashan_23.png"
-                        ]
+                        "pages": ["dashan_2.png", "dashan_22.png", "dashan_23.png"]
                     },
                     {
                         "skelName": "dashan_2T.skel",
                         "atlasName": "dashan_2T.atlas",
-                        "pages": [
-                            "dashan_2T.png"
-                        ]
+                        "pages": ["dashan_2T.png"]
                     }
                 ]
             }
@@ -1997,10 +1643,7 @@
                     {
                         "skelName": "haerfude_2.skel",
                         "atlasName": "haerfude_2.atlas",
-                        "pages": [
-                            "haerfude_2.png",
-                            "haerfude_22.png"
-                        ]
+                        "pages": ["haerfude_2.png", "haerfude_22.png"]
                     }
                 ]
             }
@@ -2015,9 +1658,7 @@
                     {
                         "skelName": "changmen_6.skel",
                         "atlasName": "changmen_6.atlas",
-                        "pages": [
-                            "changmen_6.png"
-                        ]
+                        "pages": ["changmen_6.png"]
                     }
                 ]
             }
@@ -2032,10 +1673,7 @@
                     {
                         "skelName": "jianwu_3.skel",
                         "atlasName": "jianwu_3.atlas",
-                        "pages": [
-                            "jianwu_3.png",
-                            "jianwu_32.png"
-                        ]
+                        "pages": ["jianwu_3.png", "jianwu_32.png"]
                     }
                 ]
             }
@@ -2050,9 +1688,7 @@
                     {
                         "skelName": "lingyangzhe3_2.skel",
                         "atlasName": "lingyangzhe3_2.atlas",
-                        "pages": [
-                            "lingyangzhe3_2.png"
-                        ]
+                        "pages": ["lingyangzhe3_2.png"]
                     }
                 ]
             }
@@ -2067,16 +1703,12 @@
                     {
                         "skelName": "moermansike_3T.skel",
                         "atlasName": "moermansike_3T.atlas",
-                        "pages": [
-                            "moermansike_3T.png"
-                        ]
+                        "pages": ["moermansike_3T.png"]
                     },
                     {
                         "skelName": "moermansike_3B.skel",
                         "atlasName": "moermansike_3B.atlas",
-                        "pages": [
-                            "moermansike_3B.png"
-                        ]
+                        "pages": ["moermansike_3B.png"]
                     }
                 ]
             }
