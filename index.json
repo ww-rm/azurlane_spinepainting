@@ -1753,5 +1753,20 @@
                 ]
             }
         }
+    },
+    "sikula": {
+        "chName": "斯库拉",
+        "skins": {
+            "sikula_4": {
+                "chName": "侍女的裁决",
+                "spines": [
+                    {
+                        "skelName": "sikula_4.skel",
+                        "atlasName": "sikula_4.atlas",
+                        "pages": ["sikula_4.png", "sikula_42.png"]
+                    }
+                ]
+            }
+        }
     }
 }
