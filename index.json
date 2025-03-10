@@ -32,6 +32,15 @@
                             "aersasi2.png",
                             "aersasi3.png"
                         ]
+                    },
+                    {
+                        "skelName": "aersasi_hx.skel",
+                        "atlasName": "aersasi_hx.atlas",
+                        "pages": [
+                            "aersasi_hx.png",
+                            "aersasi_hx2.png",
+                            "aersasi_hx3.png"
+                        ]
                     }
                 ]
             }
@@ -328,6 +337,13 @@
                         ]
                     },
                     {
+                        "skelName": "buleisite_T_hx.skel",
+                        "atlasName": "buleisite_T_hx.atlas",
+                        "pages": [
+                            "buleisite_T_hx.png"
+                        ]
+                    },
+                    {
                         "skelName": "buleisite_B.skel",
                         "atlasName": "buleisite_B.atlas",
                         "pages": [
@@ -366,6 +382,13 @@
                         "atlasName": "dahuangfengII_2_T.atlas",
                         "pages": [
                             "dahuangfengII_2_T.png"
+                        ]
+                    },
+                    {
+                        "skelName": "dahuangfengII_2_T_hx.skel",
+                        "atlasName": "dahuangfengII_2_T_hx.atlas",
+                        "pages": [
+                            "dahuangfengII_2_T_hx.png"
                         ]
                     },
                     {
@@ -496,6 +519,13 @@
                         "atlasName": "feiteliedadi.atlas",
                         "pages": [
                             "feiteliedadi.png"
+                        ]
+                    },
+                    {
+                        "skelName": "feiteliedadi_hx.skel",
+                        "atlasName": "feiteliedadi_hx.atlas",
+                        "pages": [
+                            "feiteliedadi_hx.png"
                         ]
                     }
                 ]
@@ -692,6 +722,13 @@
                         "atlasName": "huajia_2T.atlas",
                         "pages": [
                             "huajia_2T.png"
+                        ]
+                    },
+                    {
+                        "skelName": "huajia_2T_hx.skel",
+                        "atlasName": "huajia_2T_hx.atlas",
+                        "pages": [
+                            "huajia_2T_hx.png"
                         ]
                     },
                     {
@@ -1351,6 +1388,13 @@
                         ]
                     },
                     {
+                        "skelName": "weizhang_2T_hx.skel",
+                        "atlasName": "weizhang_2T_hx.atlas",
+                        "pages": [
+                            "weizhang_2T_hx.png"
+                        ]
+                    },
+                    {
                         "skelName": "weizhang_2B.skel",
                         "atlasName": "weizhang_2B.atlas",
                         "pages": [
@@ -1436,6 +1480,13 @@
                         ]
                     },
                     {
+                        "skelName": "wuzang3_hx.skel",
+                        "atlasName": "wuzang3_hx.atlas",
+                        "pages": [
+                            "wuzang3_hx.png"
+                        ]
+                    },
+                    {
                         "skelName": "wuzang4.skel",
                         "atlasName": "wuzang4.atlas",
                         "pages": [
@@ -1502,6 +1553,13 @@
                         "atlasName": "xili_g.atlas",
                         "pages": [
                             "xili_g.png"
+                        ]
+                    },
+                    {
+                        "skelName": "xili_g_hx.skel",
+                        "atlasName": "xili_g_hx.atlas",
+                        "pages": [
+                            "xili_g_hx.png"
                         ]
                     }
                 ]
@@ -1629,6 +1687,13 @@
                         "pages": [
                             "yanusi_4.png"
                         ]
+                    },
+                    {
+                        "skelName": "yanusi_4_hx.skel",
+                        "atlasName": "yanusi_4_hx.atlas",
+                        "pages": [
+                            "yanusi_4_hx.png"
+                        ]
                     }
                 ]
             }
@@ -1713,6 +1778,13 @@
                         ]
                     },
                     {
+                        "skelName": "yuanchouT_hx.skel",
+                        "atlasName": "yuanchouT_hx.atlas",
+                        "pages": [
+                            "yuanchouT_hx.png"
+                        ]
+                    },
+                    {
                         "skelName": "yuanchouB.skel",
                         "atlasName": "yuanchouB.atlas",
                         "pages": [
@@ -1729,6 +1801,13 @@
                         "atlasName": "yuanchou_2.atlas",
                         "pages": [
                             "yuanchou_2.png"
+                        ]
+                    },
+                    {
+                        "skelName": "yuanchou_2_hx.skel",
+                        "atlasName": "yuanchou_2_hx.atlas",
+                        "pages": [
+                            "yuanchou_2_hx.png"
                         ]
                     }
                 ]
