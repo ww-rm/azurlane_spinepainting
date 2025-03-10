@@ -1728,5 +1728,30 @@
                 ]
             }
         }
+    },
+    "lafeier": {
+        "chName": "拉斐尔",
+        "skins": {
+            "lafeier": {
+                "chName": "默认",
+                "spines": [
+                    {
+                        "skelName": "lafeierT.skel",
+                        "atlasName": "lafeierT.atlas",
+                        "pages": ["lafeierT.png"]
+                    },
+                    {
+                        "skelName": "lafeierM.skel",
+                        "atlasName": "lafeierM.atlas",
+                        "pages": ["lafeierM.png", "lafeierM2.png"]
+                    },
+                    {
+                        "skelName": "lafeierB.skel",
+                        "atlasName": "lafeierB.atlas",
+                        "pages": ["lafeierB.png"]
+                    }
+                ]
+            }
+        }
     }
 }
