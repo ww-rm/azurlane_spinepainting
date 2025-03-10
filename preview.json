@@ -286,6 +286,12 @@
                 "skelName": "duyisibao_2.skel",
                 "atlasName": "duyisibao_2.atlas",
                 "pages": ["duyisibao_2.png"]
+            },
+            {
+                "skelName": "duyisibao_2B.skel",
+                "atlasName": "duyisibao_2B.atlas",
+                "pages": ["duyisibao_2B.png"],
+                "scale": 2.0
             }
         ]
     },
