@@ -1,0 +1,13 @@
+
+fengyun_2_B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 2231, 2155
+  orig: 2231, 2155
+  offset: 0, 0
+  index: -1

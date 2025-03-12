@@ -1,0 +1,55 @@
+
+huajia_2B.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 204
+  size: 1141, 1842
+  orig: 1141, 1842
+  offset: 0, 0
+  index: -1
+hengbu1
+  rotate: true
+  xy: 1145, 90
+  size: 753, 352
+  orig: 753, 352
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: true
+  xy: 2, 2
+  size: 200, 1087
+  orig: 200, 1087
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: false
+  xy: 1145, 845
+  size: 386, 1201
+  orig: 386, 1201
+  offset: 0, 0
+  index: -1
+piao1
+  rotate: false
+  xy: 1533, 658
+  size: 158, 1388
+  orig: 158, 1388
+  offset: 0, 0
+  index: -1
+piao2
+  rotate: false
+  xy: 1693, 706
+  size: 150, 1340
+  orig: 150, 1340
+  offset: 0, 0
+  index: -1
+zhuwang1
+  rotate: false
+  xy: 1499, 126
+  size: 267, 530
+  orig: 267, 530
+  offset: 0, 0
+  index: -1

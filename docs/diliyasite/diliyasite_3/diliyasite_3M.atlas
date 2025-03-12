@@ -1,0 +1,34 @@
+
+diliyasite_3M.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-20
+  rotate: false
+  xy: 2, 2
+  size: 1798, 1673
+  orig: 1798, 1673
+  offset: 0, 0
+  index: -1
+BG-6
+  rotate: false
+  xy: 1802, 735
+  size: 33, 196
+  orig: 33, 196
+  offset: 0, 0
+  index: -1
+BG-7
+  rotate: true
+  xy: 1802, 933
+  size: 189, 57
+  orig: 189, 57
+  offset: 0, 0
+  index: -1
+BG-8
+  rotate: true
+  xy: 1802, 1124
+  size: 551, 157
+  orig: 551, 157
+  offset: 0, 0
+  index: -1

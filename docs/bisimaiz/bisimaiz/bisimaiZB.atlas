@@ -1,0 +1,153 @@
+
+bisimaiZB.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_chibang1
+  rotate: true
+  xy: 2529, 2466
+  size: 1616, 1485
+  orig: 1616, 1485
+  offset: 0, 0
+  index: -1
+L_chibang2
+  rotate: false
+  xy: 1689, 362
+  size: 838, 1012
+  orig: 838, 1012
+  offset: 0, 0
+  index: -1
+R_chibang3
+  rotate: true
+  xy: 2529, 499
+  size: 896, 836
+  orig: 896, 836
+  offset: 0, 0
+  index: -1
+R_zhijia1
+  rotate: false
+  xy: 2228, 155
+  size: 472, 205
+  orig: 472, 205
+  offset: 0, 0
+  index: -1
+R_zhijia2
+  rotate: false
+  xy: 3367, 500
+  size: 367, 254
+  orig: 367, 254
+  offset: 0, 0
+  index: -1
+bozi2_2
+  rotate: true
+  xy: 3367, 756
+  size: 644, 720
+  orig: 644, 720
+  offset: 0, 0
+  index: -1
+bozi_tou2
+  rotate: true
+  xy: 1694, 3141
+  size: 941, 629
+  orig: 941, 629
+  offset: 0, 0
+  index: -1
+dapaotai1
+  rotate: false
+  xy: 2702, 84
+  size: 698, 413
+  orig: 698, 413
+  offset: 0, 0
+  index: -1
+dapaotai2
+  rotate: false
+  xy: 3041, 1874
+  size: 821, 590
+  orig: 821, 590
+  offset: 0, 0
+  index: -1
+jiao1_tou2
+  rotate: false
+  xy: 515, 94
+  size: 607, 252
+  orig: 607, 252
+  offset: 0, 0
+  index: -1
+jiao2_tou2
+  rotate: false
+  xy: 1598, 119
+  size: 628, 227
+  orig: 628, 227
+  offset: 0, 0
+  index: -1
+paotai1_tou2
+  rotate: false
+  xy: 3620, 1490
+  size: 376, 382
+  orig: 376, 382
+  offset: 0, 0
+  index: -1
+paotai2_tou2
+  rotate: false
+  xy: 1124, 43
+  size: 472, 303
+  orig: 472, 303
+  offset: 0, 0
+  index: -1
+paotai3_tou2
+  rotate: false
+  xy: 2, 2
+  size: 511, 344
+  orig: 511, 344
+  offset: 0, 0
+  index: -1
+tou2_tou2
+  rotate: true
+  xy: 2228, 7
+  size: 146, 199
+  orig: 146, 199
+  offset: 0, 0
+  index: -1
+tou_tou2
+  rotate: false
+  xy: 1694, 2505
+  size: 770, 634
+  orig: 770, 634
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 2, 1376
+  size: 1690, 2706
+  orig: 1690, 2706
+  offset: 0, 0
+  index: -1
+xiae_tou2
+  rotate: true
+  xy: 3041, 1402
+  size: 470, 577
+  orig: 470, 577
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 1694, 1397
+  size: 1345, 1067
+  orig: 1345, 1067
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 2, 348
+  size: 1685, 1026
+  orig: 1685, 1026
+  offset: 0, 0
+  index: -1
+xiaopaotai
+  rotate: true
+  xy: 2325, 3844
+  size: 238, 193
+  orig: 238, 193
+  offset: 0, 0
+  index: -1

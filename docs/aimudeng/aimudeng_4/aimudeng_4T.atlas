@@ -1,0 +1,132 @@
+
+aimudeng_4T.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dpd1
+  rotate: false
+  xy: 799, 17
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+dpd10
+  rotate: false
+  xy: 503, 36
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+dpd12
+  rotate: false
+  xy: 712, 450
+  size: 322, 397
+  orig: 322, 397
+  offset: 0, 0
+  index: -1
+dpd13
+  rotate: true
+  xy: 712, 160
+  size: 288, 312
+  orig: 288, 312
+  offset: 0, 0
+  index: -1
+dpd14
+  rotate: false
+  xy: 713, 46
+  size: 84, 112
+  orig: 84, 112
+  offset: 0, 0
+  index: -1
+dpd15
+  rotate: false
+  xy: 799, 71
+  size: 55, 87
+  orig: 55, 87
+  offset: 0, 0
+  index: -1
+dpd17
+  rotate: true
+  xy: 2, 2
+  size: 250, 330
+  orig: 250, 330
+  offset: 0, 0
+  index: -1
+dpd18
+  rotate: false
+  xy: 334, 91
+  size: 108, 161
+  orig: 108, 161
+  offset: 0, 0
+  index: -1
+dpd20
+  rotate: false
+  xy: 2, 254
+  size: 708, 593
+  orig: 708, 593
+  offset: 0, 0
+  index: -1
+dpd21
+  rotate: false
+  xy: 868, 69
+  size: 37, 89
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+dpd22
+  rotate: false
+  xy: 604, 52
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+dpd3
+  rotate: false
+  xy: 604, 169
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+dpd4
+  rotate: false
+  xy: 444, 92
+  size: 80, 160
+  orig: 80, 160
+  offset: 0, 0
+  index: -1
+dpd5
+  rotate: false
+  xy: 526, 84
+  size: 76, 168
+  orig: 76, 168
+  offset: 0, 0
+  index: -1
+dpd6
+  rotate: false
+  xy: 434, 4
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+dpd7
+  rotate: false
+  xy: 868, 12
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+dpd8
+  rotate: false
+  xy: 334, 7
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+dpd9
+  rotate: false
+  xy: 583, 12
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1

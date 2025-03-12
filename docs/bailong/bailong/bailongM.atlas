@@ -1,0 +1,90 @@
+
+bailongM.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 2, 18
+  size: 671, 1155
+  orig: 671, 1155
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 1784, 176
+  size: 627, 621
+  orig: 627, 621
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 1347, 1268
+  size: 768, 756
+  orig: 768, 756
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 2, 691
+  size: 626, 1345
+  orig: 626, 1345
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 1159, 107
+  size: 623, 628
+  orig: 623, 628
+  offset: 0, 0
+  index: -1
+a6
+  rotate: true
+  xy: 630, 1260
+  size: 776, 715
+  orig: 776, 715
+  offset: 0, 0
+  index: -1
+fengyi2
+  rotate: false
+  xy: 929, 737
+  size: 663, 521
+  orig: 663, 521
+  offset: 0, 0
+  index: -1
+fengyi3
+  rotate: false
+  xy: 1594, 805
+  size: 246, 461
+  orig: 246, 461
+  offset: 0, 0
+  index: -1
+yishi2
+  rotate: false
+  xy: 1784, 2
+  size: 272, 172
+  orig: 272, 172
+  offset: 0, 0
+  index: -1
+yishi3
+  rotate: false
+  xy: 2058, 17
+  size: 259, 157
+  orig: 259, 157
+  offset: 0, 0
+  index: -1
+yishi4
+  rotate: true
+  xy: 630, 704
+  size: 554, 297
+  orig: 554, 297
+  offset: 0, 0
+  index: -1
+yishi5
+  rotate: false
+  xy: 1159, 20
+  size: 140, 85
+  orig: 140, 85
+  offset: 0, 0
+  index: -1
