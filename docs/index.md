@@ -11,7 +11,7 @@ permalink: /index.html
 
 ---
 
-### 获取资源索引
+## 获取资源索引
 
 请求:
 
@@ -73,6 +73,6 @@ class ShipData(BaseModel):
 
 访问测试:
 
-- [/azurlane_char/yanzhan/yanzhan_g.skel](/azurlane_char/yanzhan/yanzhan_g.skel)
-- [/azurlane_char/yanzhan/yanzhan_g.atlas](/azurlane_char/yanzhan/yanzhan_g.atlas)
-- [/azurlane_char/yanzhan/yanzhan_g.png](/azurlane_char/yanzhan/yanzhan_g.png)
+- [/azurlane_spinepainting/yanzhan/yanzhan_g/yanzhan_g.skel](/azurlane_spinepainting/yanzhan/yanzhan_g/yanzhan_g.skel)
+- [/azurlane_spinepainting/yanzhan/yanzhan_g/yanzhan_g.atlas](/azurlane_spinepainting/yanzhan/yanzhan_g/yanzhan_g.atlas)
+- [/azurlane_spinepainting/yanzhan/yanzhan_g/yanzhan_g.png](/azurlane_spinepainting/yanzhan/yanzhan_g/yanzhan_g.png)
