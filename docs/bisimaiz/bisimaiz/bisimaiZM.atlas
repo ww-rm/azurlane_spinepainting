@@ -1,0 +1,118 @@
+
+bisimaiZM.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_longjiao_2
+  rotate: true
+  xy: 3913, 3030
+  size: 716, 122
+  orig: 716, 122
+  offset: 0, 0
+  index: -1
+R_chibang1
+  rotate: false
+  xy: 2819, 2521
+  size: 1092, 1225
+  orig: 1092, 1225
+  offset: 0, 0
+  index: -1
+R_chibang2
+  rotate: true
+  xy: 2, 451
+  size: 1780, 2385
+  orig: 1780, 2385
+  offset: 0, 0
+  index: -1
+R_longjiao_2
+  rotate: false
+  xy: 2389, 291
+  size: 671, 189
+  orig: 671, 189
+  offset: 0, 0
+  index: -1
+bozi1_2
+  rotate: true
+  xy: 2819, 1446
+  size: 1073, 942
+  orig: 1073, 942
+  offset: 0, 0
+  index: -1
+juse_guang1
+  rotate: false
+  xy: 3291, 786
+  size: 526, 473
+  orig: 526, 473
+  offset: 0, 0
+  index: -1
+juse_guang2
+  rotate: false
+  xy: 3687, 395
+  size: 332, 389
+  orig: 332, 389
+  offset: 0, 0
+  index: -1
+paoguan1_1
+  rotate: false
+  xy: 2389, 1738
+  size: 345, 493
+  orig: 345, 493
+  offset: 0, 0
+  index: -1
+paoguan2_2
+  rotate: false
+  xy: 3763, 1261
+  size: 304, 574
+  orig: 304, 574
+  offset: 0, 0
+  index: -1
+paotai
+  rotate: false
+  xy: 3062, 2
+  size: 623, 564
+  orig: 623, 564
+  offset: 0, 0
+  index: -1
+shange
+  rotate: true
+  xy: 2389, 482
+  size: 962, 460
+  orig: 962, 460
+  offset: 0, 0
+  index: -1
+shtou
+  rotate: false
+  xy: 2, 2233
+  size: 2815, 1513
+  orig: 2815, 1513
+  offset: 0, 0
+  index: -1
+xiaba1
+  rotate: true
+  xy: 2851, 772
+  size: 672, 438
+  orig: 672, 438
+  offset: 0, 0
+  index: -1
+xiaba2
+  rotate: false
+  xy: 2851, 568
+  size: 469, 202
+  orig: 469, 202
+  offset: 0, 0
+  index: -1
+xiaba3
+  rotate: false
+  xy: 2389, 1498
+  size: 238, 238
+  orig: 238, 238
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: true
+  xy: 3763, 1837
+  size: 682, 302
+  orig: 682, 302
+  offset: 0, 0
+  index: -1

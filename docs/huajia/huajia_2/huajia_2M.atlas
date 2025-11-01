@@ -1,0 +1,90 @@
+
+huajia_2M.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fffff1
+  rotate: true
+  xy: 2974, 3557
+  size: 335, 798
+  orig: 335, 798
+  offset: 0, 0
+  index: -1
+fu1
+  rotate: false
+  xy: 88, 3793
+  size: 145, 99
+  orig: 145, 99
+  offset: 0, 0
+  index: -1
+fuying1
+  rotate: false
+  xy: 958, 3764
+  size: 150, 128
+  orig: 150, 128
+  offset: 0, 0
+  index: -1
+guangyun1
+  rotate: false
+  xy: 2330, 3059
+  size: 518, 685
+  orig: 518, 685
+  offset: 0, 0
+  index: -1
+guangyun3
+  rotate: true
+  xy: 1750, 3371
+  size: 373, 578
+  orig: 373, 578
+  offset: 0, 0
+  index: -1
+hongbu1
+  rotate: true
+  xy: 2, 3436
+  size: 308, 1746
+  orig: 308, 1746
+  offset: 0, 0
+  index: -1
+hongbu2
+  rotate: true
+  xy: 1110, 3746
+  size: 146, 1862
+  orig: 146, 1862
+  offset: 0, 0
+  index: -1
+lazhu1
+  rotate: true
+  xy: 574, 3767
+  size: 125, 382
+  orig: 125, 382
+  offset: 0, 0
+  index: -1
+lazhu3
+  rotate: true
+  xy: 235, 3786
+  size: 106, 337
+  orig: 106, 337
+  offset: 0, 0
+  index: -1
+men
+  rotate: false
+  xy: 2, 2
+  size: 3773, 3055
+  orig: 3773, 3055
+  offset: 0, 0
+  index: -1
+zhuguang1
+  rotate: true
+  xy: 42, 3871
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+zhuguang3
+  rotate: true
+  xy: 2, 3874
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1

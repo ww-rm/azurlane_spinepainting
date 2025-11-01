@@ -1,0 +1,111 @@
+
+wuzang5.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+107
+  rotate: false
+  xy: 2, 2958
+  size: 1747, 1009
+  orig: 1747, 1009
+  offset: 0, 0
+  index: -1
+108
+  rotate: false
+  xy: 1171, 1788
+  size: 1405, 981
+  orig: 1405, 981
+  offset: 0, 0
+  index: -1
+109
+  rotate: false
+  xy: 2943, 2773
+  size: 703, 1194
+  orig: 703, 1194
+  offset: 0, 0
+  index: -1
+110
+  rotate: false
+  xy: 1751, 2771
+  size: 1190, 1196
+  orig: 1190, 1196
+  offset: 0, 0
+  index: -1
+111
+  rotate: false
+  xy: 3648, 3610
+  size: 242, 357
+  orig: 242, 357
+  offset: 0, 0
+  index: -1
+112
+  rotate: true
+  xy: 3648, 3362
+  size: 246, 214
+  orig: 246, 214
+  offset: 0, 0
+  index: -1
+118
+  rotate: false
+  xy: 2239, 233
+  size: 473, 461
+  orig: 473, 461
+  offset: 0, 0
+  index: -1
+119
+  rotate: false
+  xy: 2578, 1621
+  size: 1110, 1148
+  orig: 1110, 1148
+  offset: 0, 0
+  index: -1
+120
+  rotate: false
+  xy: 3231, 774
+  size: 619, 845
+  orig: 619, 845
+  offset: 0, 0
+  index: -1
+121
+  rotate: false
+  xy: 1171, 628
+  size: 1066, 1158
+  orig: 1066, 1158
+  offset: 0, 0
+  index: -1
+210
+  rotate: false
+  xy: 2, 669
+  size: 846, 1065
+  orig: 846, 1065
+  offset: 0, 0
+  index: -1
+211
+  rotate: true
+  xy: 2, 1736
+  size: 1220, 1167
+  orig: 1220, 1167
+  offset: 0, 0
+  index: -1
+215
+  rotate: true
+  xy: 2239, 696
+  size: 923, 990
+  orig: 923, 990
+  offset: 0, 0
+  index: -1
+217-2
+  rotate: true
+  xy: 3231, 207
+  size: 565, 519
+  orig: 565, 519
+  offset: 0, 0
+  index: -1
+219
+  rotate: false
+  xy: 2, 2
+  size: 739, 665
+  orig: 739, 665
+  offset: 0, 0
+  index: -1

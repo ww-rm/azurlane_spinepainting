@@ -1,0 +1,20 @@
+
+wuzang6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+123
+  rotate: false
+  xy: 2, 2
+  size: 1657, 1887
+  orig: 1657, 1887
+  offset: 0, 0
+  index: -1
+212
+  rotate: false
+  xy: 1661, 143
+  size: 287, 1746
+  orig: 287, 1746
+  offset: 0, 0
+  index: -1

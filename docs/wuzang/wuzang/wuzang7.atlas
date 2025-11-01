@@ -1,0 +1,97 @@
+
+wuzang7.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+114
+  rotate: false
+  xy: 2888, 2355
+  size: 399, 165
+  orig: 399, 165
+  offset: 0, 0
+  index: -1
+115
+  rotate: false
+  xy: 2571, 2048
+  size: 440, 172
+  orig: 440, 172
+  offset: 0, 0
+  index: -1
+116
+  rotate: true
+  xy: 2394, 2143
+  size: 446, 175
+  orig: 446, 175
+  offset: 0, 0
+  index: -1
+124
+  rotate: true
+  xy: 2047, 1942
+  size: 647, 345
+  orig: 647, 345
+  offset: 0, 0
+  index: -1
+125
+  rotate: false
+  xy: 1480, 2591
+  size: 1209, 968
+  orig: 1209, 968
+  offset: 0, 0
+  index: -1
+126
+  rotate: false
+  xy: 2, 1913
+  size: 1476, 1646
+  orig: 1476, 1646
+  offset: 0, 0
+  index: -1
+127
+  rotate: false
+  xy: 2, 692
+  size: 1314, 1219
+  orig: 1314, 1219
+  offset: 0, 0
+  index: -1
+128
+  rotate: false
+  xy: 1318, 773
+  size: 1407, 1138
+  orig: 1407, 1138
+  offset: 0, 0
+  index: -1
+213
+  rotate: false
+  xy: 2571, 2222
+  size: 315, 298
+  orig: 315, 298
+  offset: 0, 0
+  index: -1
+217
+  rotate: false
+  xy: 1480, 2070
+  size: 565, 519
+  orig: 565, 519
+  offset: 0, 0
+  index: -1
+218
+  rotate: true
+  xy: 2727, 1005
+  size: 1041, 744
+  orig: 1041, 744
+  offset: 0, 0
+  index: -1
+220
+  rotate: true
+  xy: 2691, 2522
+  size: 1037, 870
+  orig: 1037, 870
+  offset: 0, 0
+  index: -1
+221
+  rotate: true
+  xy: 2727, 2
+  size: 1001, 678
+  orig: 1001, 678
+  offset: 0, 0
+  index: -1

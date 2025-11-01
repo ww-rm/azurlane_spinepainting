@@ -1,0 +1,111 @@
+
+wuzang2.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 800, 18
+  size: 273, 52
+  orig: 273, 52
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 243, 15
+  size: 275, 53
+  orig: 275, 53
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 520, 16
+  size: 278, 52
+  orig: 278, 52
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1915, 52
+  size: 177, 308
+  orig: 177, 308
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1032, 102
+  size: 368, 258
+  orig: 368, 258
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 1402, 69
+  size: 291, 511
+  orig: 291, 511
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 530, 72
+  size: 288, 500
+  orig: 288, 500
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 2, 70
+  size: 290, 526
+  orig: 290, 526
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 1096, 1289
+  size: 729, 825
+  orig: 729, 825
+  offset: 0, 0
+  index: -1
+206
+  rotate: true
+  xy: 2, 750
+  size: 1268, 1092
+  orig: 1268, 1092
+  offset: 0, 0
+  index: -1
+207
+  rotate: true
+  xy: 2228, 51
+  size: 745, 556
+  orig: 745, 556
+  offset: 0, 0
+  index: -1
+208
+  rotate: true
+  xy: 2116, 798
+  size: 1220, 788
+  orig: 1220, 788
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2094, 224
+  size: 132, 136
+  orig: 132, 136
+  offset: 0, 0
+  index: -1
+214
+  rotate: true
+  xy: 2, 2
+  size: 66, 239
+  orig: 66, 239
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 362
+  size: 386, 2112
+  orig: 386, 2112
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+yixian_2M.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG-05
+  rotate: false
+  xy: 2807, 1490
+  size: 146, 2055
+  orig: 146, 2055
+  offset: 0, 0
+  index: -1
+BG-06
+  rotate: true
+  xy: 2, 333
+  size: 972, 1414
+  orig: 972, 1414
+  offset: 0, 0
+  index: -1
+BG-07
+  rotate: false
+  xy: 3537, 1619
+  size: 445, 469
+  orig: 445, 469
+  offset: 0, 0
+  index: -1
+BG-08
+  rotate: true
+  xy: 2, 2
+  size: 329, 1661
+  orig: 329, 1661
+  offset: 0, 0
+  index: -1
+BG-09
+  rotate: true
+  xy: 1813, 1630
+  size: 1465, 992
+  orig: 1465, 992
+  offset: 0, 0
+  index: -1
+BG-10
+  rotate: false
+  xy: 2778, 217
+  size: 531, 1086
+  orig: 531, 1086
+  offset: 0, 0
+  index: -1
+BG-11
+  rotate: false
+  xy: 1418, 372
+  size: 755, 997
+  orig: 755, 997
+  offset: 0, 0
+  index: -1
+BG-12
+  rotate: false
+  xy: 2955, 1305
+  size: 580, 872
+  orig: 580, 872
+  offset: 0, 0
+  index: -1
+BG-13
+  rotate: false
+  xy: 2, 1307
+  size: 1051, 1788
+  orig: 1051, 1788
+  offset: 0, 0
+  index: -1
+BG-15
+  rotate: false
+  xy: 3311, 171
+  size: 234, 1132
+  orig: 234, 1132
+  offset: 0, 0
+  index: -1
+BG-16
+  rotate: true
+  xy: 1665, 102
+  size: 268, 536
+  orig: 268, 536
+  offset: 0, 0
+  index: -1
+BG-17
+  rotate: false
+  xy: 3537, 1484
+  size: 194, 133
+  orig: 194, 133
+  offset: 0, 0
+  index: -1
+BG-18
+  rotate: false
+  xy: 3614, 2090
+  size: 308, 1455
+  orig: 308, 1455
+  offset: 0, 0
+  index: -1
+BG-19
+  rotate: false
+  xy: 1055, 1371
+  size: 756, 1724
+  orig: 756, 1724
+  offset: 0, 0
+  index: -1
+BG-20
+  rotate: true
+  xy: 1813, 1512
+  size: 116, 298
+  orig: 116, 298
+  offset: 0, 0
+  index: -1
+BG-21
+  rotate: true
+  xy: 3924, 2757
+  size: 788, 120
+  orig: 788, 120
+  offset: 0, 0
+  index: -1
+BG-22
+  rotate: false
+  xy: 2, 3097
+  size: 2802, 986
+  orig: 2802, 986
+  offset: 0, 0
+  index: -1
+BG-23
+  rotate: true
+  xy: 2175, 418
+  size: 1210, 601
+  orig: 1210, 601
+  offset: 0, 0
+  index: -1
+BG-24
+  rotate: true
+  xy: 2955, 2179
+  size: 1366, 657
+  orig: 1366, 657
+  offset: 0, 0
+  index: -1
+yizi
+  rotate: false
+  xy: 2806, 3547
+  size: 1277, 536
+  orig: 1277, 536
+  offset: 0, 0
+  index: -1

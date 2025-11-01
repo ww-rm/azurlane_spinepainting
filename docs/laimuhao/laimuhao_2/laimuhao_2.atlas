@@ -1,0 +1,578 @@
+
+laimuhao_2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back2
+  rotate: false
+  xy: 2, 823
+  size: 3013, 1572
+  orig: 3013, 1572
+  offset: 0, 0
+  index: -1
+back3
+  rotate: false
+  xy: 2, 2397
+  size: 2991, 1690
+  orig: 2991, 1690
+  offset: 0, 0
+  index: -1
+back_glow1
+  rotate: true
+  xy: 3747, 3
+  size: 644, 347
+  orig: 647, 348
+  offset: 3, 1
+  index: -1
+back_glow3
+  rotate: true
+  xy: 2, 322
+  size: 499, 864
+  orig: 501, 867
+  offset: 1, 2
+  index: -1
+body
+  rotate: false
+  xy: 3017, 1152
+  size: 1073, 739
+  orig: 1073, 742
+  offset: 0, 3
+  index: -1
+breast_L
+  rotate: false
+  xy: 2995, 2285
+  size: 327, 448
+  orig: 328, 448
+  offset: 0, 0
+  index: -1
+breast_R
+  rotate: true
+  xy: 837, 11
+  size: 356, 403
+  orig: 358, 407
+  offset: 2, 0
+  index: -1
+cheek
+  rotate: false
+  xy: 3279, 1029
+  size: 233, 121
+  orig: 234, 121
+  offset: 1, 0
+  index: -1
+expression_0
+  rotate: false
+  xy: 3017, 950
+  size: 260, 200
+  orig: 260, 201
+  offset: 0, 0
+  index: -1
+expression_3
+  rotate: false
+  xy: 3777, 1892
+  size: 305, 257
+  orig: 305, 258
+  offset: 0, 1
+  index: -1
+expression_4
+  rotate: false
+  xy: 3375, 3807
+  size: 333, 280
+  orig: 333, 281
+  offset: 0, 1
+  index: -1
+expression_5
+  rotate: false
+  xy: 460, 48
+  size: 305, 272
+  orig: 305, 272
+  offset: 0, 0
+  index: -1
+expression_7
+  rotate: false
+  xy: 1241, 5
+  size: 318, 258
+  orig: 318, 260
+  offset: 0, 1
+  index: -1
+expression_9
+  rotate: true
+  xy: 3886, 2151
+  size: 270, 205
+  orig: 270, 206
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 2995, 2881
+  size: 70, 88
+  orig: 71, 89
+  offset: 1, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 2779, 442
+  size: 214, 117
+  orig: 215, 117
+  offset: 0, 0
+  index: -1
+eye_L1_B
+  rotate: false
+  xy: 3177, 3407
+  size: 54, 51
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+eye_L1_W
+  rotate: false
+  xy: 2995, 3595
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+eye_R1_B
+  rotate: false
+  xy: 2995, 3050
+  size: 46, 48
+  orig: 48, 48
+  offset: 1, 0
+  index: -1
+eye_R1_W
+  rotate: false
+  xy: 3074, 3523
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+eyebrow_L1
+  rotate: false
+  xy: 3063, 2735
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+eyebrow_L12
+  rotate: false
+  xy: 2995, 2718
+  size: 83, 61
+  orig: 114, 61
+  offset: 0, 0
+  index: -1
+eyebrow_L2
+  rotate: false
+  xy: 2995, 3970
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+eyebrow_L3
+  rotate: false
+  xy: 2995, 3544
+  size: 77, 48
+  orig: 78, 49
+  offset: 0, 1
+  index: -1
+eyebrow_R1
+  rotate: false
+  xy: 868, 760
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+eyebrow_R12
+  rotate: false
+  xy: 3320, 3791
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+eyebrow_R13
+  rotate: false
+  xy: 2995, 2840
+  size: 52, 39
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+eyebrow_R2
+  rotate: false
+  xy: 2995, 3990
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+eyebrow_R3
+  rotate: false
+  xy: 3177, 3379
+  size: 60, 26
+  orig: 60, 26
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 3018, 2759
+  size: 64, 219
+  orig: 64, 220
+  offset: 0, 1
+  index: -1
+hair_10
+  rotate: false
+  xy: 2995, 2971
+  size: 122, 173
+  orig: 122, 173
+  offset: 0, 0
+  index: -1
+hair_12
+  rotate: false
+  xy: 2995, 2997
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+hair_15
+  rotate: false
+  xy: 3177, 3257
+  size: 97, 236
+  orig: 97, 236
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: 180
+  xy: 3809, 2538
+  size: 273, 342
+  orig: 273, 342
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: false
+  xy: 2028, 7
+  size: 387, 125
+  orig: 388, 125
+  offset: 0, 0
+  index: -1
+hand_R3
+  rotate: false
+  xy: 2995, 3146
+  size: 180, 370
+  orig: 180, 370
+  offset: 0, 0
+  index: -1
+head_F
+  rotate: true
+  xy: 1687, 12
+  size: 351, 346
+  orig: 351, 346
+  offset: 0, 0
+  index: -1
+leg_L1
+  rotate: true
+  xy: 3017, 1658
+  size: 1019, 875
+  orig: 1020, 875
+  offset: 0, 0
+  index: -1
+leg_L_s
+  rotate: false
+  xy: 3139, 22
+  size: 591, 442
+  orig: 591, 442
+  offset: 0, 0
+  index: -1
+leg_R1
+  rotate: false
+  xy: 3179, 283
+  size: 915, 1029
+  orig: 915, 1029
+  offset: 0, 0
+  index: -1
+leg_R11
+  rotate: false
+  xy: 3894, 3480
+  size: 196, 189
+  orig: 232, 212
+  offset: 23, 8
+  index: -1
+leg_R_s2
+  rotate: true
+  xy: 1851, 510
+  size: 312, 638
+  orig: 312, 638
+  offset: 0, 0
+  index: -1
+leg_x1
+  rotate: false
+  xy: 868, 265
+  size: 985, 556
+  orig: 985, 556
+  offset: 0, 0
+  index: -1
+leg_x2
+  rotate: false
+  xy: 1968, 163
+  size: 1431, 820
+  orig: 1431, 825
+  offset: 0, 0
+  index: -1
+oxhorn_L
+  rotate: true
+  xy: 2, 43
+  size: 277, 456
+  orig: 277, 456
+  offset: 0, 0
+  index: -1
+oxhorn_R
+  rotate: false
+  xy: 3738, 3671
+  size: 305, 416
+  orig: 305, 417
+  offset: 0, 1
+  index: -1
+qi
+  rotate: false
+  xy: 2995, 4024
+  size: 64, 63
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+starfish_L1
+  rotate: false
+  xy: 2994, 427
+  size: 231, 170
+  orig: 231, 170
+  offset: 0, 0
+  index: -1
+starfish_R1
+  rotate: false
+  xy: 3899, 2858
+  size: 193, 229
+  orig: 193, 229
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: false
+  xy: 2995, 3948
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+tentacle2
+  rotate: true
+  xy: 2995, 2678
+  size: 1409, 962
+  orig: 1409, 962
+  offset: 0, 0
+  index: -1
+tentacle3
+  rotate: 180
+  xy: 2492, 24
+  size: 680, 417
+  orig: 680, 421
+  offset: 0, 0
+  index: -1
+
+laimuhao_22.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back1
+  rotate: false
+  xy: 2, 2304
+  size: 2677, 1642
+  orig: 2677, 1642
+  offset: 0, 0
+  index: -1
+back4
+  rotate: false
+  xy: 2, 726
+  size: 2524, 1576
+  orig: 2524, 1576
+  offset: 0, 0
+  index: -1
+back_glow2
+  rotate: true
+  xy: 2, 322
+  size: 402, 862
+  orig: 404, 869
+  offset: 1, 7
+  index: -1
+back_shadow
+  rotate: true
+  xy: 2681, 657
+  size: 3290, 1330
+  orig: 3330, 1330
+  offset: 0, 0
+  index: -1
+expression_1
+  rotate: false
+  xy: 2681, 3160
+  size: 259, 199
+  orig: 260, 199
+  offset: 1, 0
+  index: -1
+expression_2
+  rotate: false
+  xy: 3610, 2738
+  size: 307, 249
+  orig: 307, 250
+  offset: 0, 1
+  index: -1
+expression_6
+  rotate: false
+  xy: 2, 82
+  size: 316, 238
+  orig: 316, 239
+  offset: 0, 0
+  index: -1
+expression_8
+  rotate: false
+  xy: 1344, 12
+  size: 304, 223
+  orig: 304, 224
+  offset: 0, 1
+  index: -1
+hair_18
+  rotate: true
+  xy: 2979, 74
+  size: 220, 445
+  orig: 222, 445
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 3754, 436
+  size: 340, 350
+  orig: 340, 350
+  offset: 0, 0
+  index: -1
+hair_7
+  rotate: true
+  xy: 1324, 486
+  size: 238, 412
+  orig: 238, 412
+  offset: 0, 0
+  index: -1
+hair_9
+  rotate: false
+  xy: 3319, 583
+  size: 522, 382
+  orig: 522, 382
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: 180
+  xy: 3451, 3342
+  size: 521, 604
+  orig: 525, 604
+  offset: 4, 0
+  index: -1
+hand_L2
+  rotate: false
+  xy: 2641, 3
+  size: 677, 428
+  orig: 677, 428
+  offset: 0, 0
+  index: -1
+hand_R2
+  rotate: false
+  xy: 3673, 474
+  size: 397, 532
+  orig: 397, 532
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 3697, 2989
+  size: 351, 346
+  orig: 351, 346
+  offset: 0, 0
+  index: -1
+head_glow
+  rotate: true
+  xy: 3877, 3741
+  size: 205, 179
+  orig: 205, 181
+  offset: 0, 1
+  index: -1
+leg_L2
+  rotate: 180
+  xy: 2496, 120
+  size: 1536, 761
+  orig: 1536, 761
+  offset: 0, 0
+  index: -1
+leg_R_s1
+  rotate: false
+  xy: 2528, 987
+  size: 280, 576
+  orig: 282, 582
+  offset: 0, 2
+  index: -1
+neck
+  rotate: false
+  xy: 2422, 11
+  size: 314, 366
+  orig: 314, 366
+  offset: 0, 0
+  index: -1
+tentacle5
+  rotate: false
+  xy: 2681, 3288
+  size: 478, 658
+  orig: 478, 658
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 453, 151
+  size: 1771, 574
+  orig: 1771, 574
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: true
+  xy: 1762, 47
+  size: 642, 1369
+  orig: 642, 1369
+  offset: 0, 0
+  index: -1
+
+laimuhao_23.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_fog2
+  rotate: false
+  xy: 1963, 906
+  size: 1237, 1399
+  orig: 1237, 1399
+  offset: 0, 0
+  index: -1
+back_fog3
+  rotate: false
+  xy: 2, 830
+  size: 1959, 1474
+  orig: 1959, 1474
+  offset: 0, 0
+  index: -1
+hair_8
+  rotate: true
+  xy: 2, 109
+  size: 720, 967
+  orig: 722, 973
+  offset: 0, 0
+  index: -1
+leg_R2
+  rotate: false
+  xy: 986, 4
+  size: 1424, 901
+  orig: 1424, 909
+  offset: 0, 0
+  index: -1
+tentacle1
+  rotate: false
+  xy: 1994, 30
+  size: 698, 592
+  orig: 725, 598
+  offset: 27, 0
+  index: -1

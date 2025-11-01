@@ -1,0 +1,174 @@
+
+weizhang_2B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bathtub
+  rotate: false
+  xy: 3694, 1693
+  size: 314, 303
+  orig: 314, 303
+  offset: 0, 0
+  index: -1
+deck
+  rotate: false
+  xy: 1407, 611
+  size: 2013, 287
+  orig: 2013, 287
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 3933, 1465
+  size: 161, 116
+  orig: 161, 116
+  offset: 0, 0
+  index: -1
+majuu1
+  rotate: true
+  xy: 3661, 1330
+  size: 215, 276
+  orig: 215, 276
+  offset: 0, 0
+  index: -1
+majuu1_2
+  rotate: false
+  xy: 2992, 2473
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+majuu1_3
+  rotate: false
+  xy: 4034, 2478
+  size: 60, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+majuu_spindrift
+  rotate: false
+  xy: 1876, 475
+  size: 430, 142
+  orig: 430, 142
+  offset: 0, 0
+  index: -1
+majuu_spindrift2
+  rotate: false
+  xy: 3243, 1451
+  size: 292, 128
+  orig: 292, 128
+  offset: 0, 0
+  index: -1
+majuu_spindrift3
+  rotate: false
+  xy: 2972, 1393
+  size: 269, 186
+  orig: 269, 186
+  offset: 0, 0
+  index: -1
+majuu_spindrift5
+  rotate: false
+  xy: 2972, 1717
+  size: 624, 146
+  orig: 624, 146
+  offset: 0, 0
+  index: -1
+stage1
+  rotate: false
+  xy: 2, 1365
+  size: 2969, 1089
+  orig: 2969, 1089
+  offset: 0, 0
+  index: -1
+stage2
+  rotate: true
+  xy: 3733, 1998
+  size: 540, 293
+  orig: 540, 293
+  offset: 0, 0
+  index: -1
+stage3
+  rotate: false
+  xy: 2, 3
+  size: 1404, 1360
+  orig: 1404, 1360
+  offset: 0, 0
+  index: -1
+stage5
+  rotate: true
+  xy: 2992, 2540
+  size: 1101, 1060
+  orig: 1101, 1060
+  offset: 0, 0
+  index: -1
+stage6
+  rotate: false
+  xy: 2, 2456
+  size: 2988, 1185
+  orig: 2988, 1185
+  offset: 0, 0
+  index: -1
+swimmingpool
+  rotate: false
+  xy: 1407, 899
+  size: 2252, 464
+  orig: 2252, 464
+  offset: 0, 0
+  index: -1
+swimmingpool2
+  rotate: true
+  xy: 1407, 46
+  size: 571, 467
+  orig: 571, 467
+  offset: 0, 0
+  index: -1
+swimmingpool_spindrift
+  rotate: false
+  xy: 3548, 1547
+  size: 481, 144
+  orig: 481, 144
+  offset: 0, 0
+  index: -1
+swimmingpool_spindrift2
+  rotate: false
+  xy: 2972, 1581
+  size: 574, 134
+  orig: 574, 134
+  offset: 0, 0
+  index: -1
+swimring
+  rotate: false
+  xy: 2972, 1866
+  size: 759, 673
+  orig: 759, 673
+  offset: 0, 0
+  index: -1
+swimring_spindrift
+  rotate: true
+  xy: 3422, 264
+  size: 633, 580
+  orig: 633, 580
+  offset: 0, 0
+  index: -1
+towel
+  rotate: false
+  xy: 3903, 1168
+  size: 191, 172
+  orig: 191, 172
+  offset: 0, 0
+  index: -1
+towel2
+  rotate: false
+  xy: 3839, 1000
+  size: 173, 166
+  orig: 173, 166
+  offset: 0, 0
+  index: -1
+towel3
+  rotate: false
+  xy: 3661, 1160
+  size: 176, 168
+  orig: 176, 168
+  offset: 0, 0
+  index: -1

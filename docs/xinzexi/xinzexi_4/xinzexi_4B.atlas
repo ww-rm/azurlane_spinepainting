@@ -1,0 +1,424 @@
+
+xinzexi_4B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: false
+  xy: 1828, 297
+  size: 441, 532
+  orig: 500, 694
+  offset: 2, 68
+  index: -1
+chunhei
+  rotate: false
+  xy: 4046, 3233
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+guangdian1
+  rotate: false
+  xy: 2, 2639
+  size: 2664, 1414
+  orig: 2664, 1414
+  offset: 0, 0
+  index: -1
+he
+  rotate: false
+  xy: 588, 2433
+  size: 779, 204
+  orig: 779, 204
+  offset: 0, 0
+  index: -1
+he3
+  rotate: true
+  xy: 2668, 3710
+  size: 342, 173
+  orig: 342, 173
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 3986, 3155
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+hua12
+  rotate: false
+  xy: 2668, 3136
+  size: 157, 184
+  orig: 157, 184
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 3986, 3198
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 3986, 3427
+  size: 62, 107
+  orig: 62, 107
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 3986, 3116
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+hua6
+  rotate: false
+  xy: 4038, 3118
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+hua7
+  rotate: false
+  xy: 2668, 3322
+  size: 161, 183
+  orig: 161, 183
+  offset: 0, 0
+  index: -1
+hua8
+  rotate: false
+  xy: 2826, 3630
+  size: 30, 78
+  orig: 30, 78
+  offset: 0, 0
+  index: -1
+hua9
+  rotate: false
+  xy: 3986, 3937
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+shan
+  rotate: false
+  xy: 2028, 1927
+  size: 708, 208
+  orig: 708, 208
+  offset: 0, 0
+  index: -1
+shan3
+  rotate: true
+  xy: 3770, 59
+  size: 1163, 324
+  orig: 1163, 324
+  offset: 0, 0
+  index: -1
+shan4
+  rotate: true
+  xy: 3503, 2178
+  size: 1874, 481
+  orig: 1874, 481
+  offset: 0, 0
+  index: -1
+shan5
+  rotate: false
+  xy: 1430, 2138
+  size: 1249, 500
+  orig: 1249, 500
+  offset: 0, 0
+  index: -1
+shu4F
+  rotate: true
+  xy: 2332, 70
+  size: 1963, 1742
+  orig: 1963, 1742
+  offset: 0, 0
+  index: -1
+shuxian1
+  rotate: true
+  xy: 2860, 851
+  size: 3201, 641
+  orig: 3201, 641
+  offset: 0, 0
+  index: -1
+shuxian2
+  rotate: false
+  xy: 2, 63
+  size: 1824, 1093
+  orig: 1824, 1093
+  offset: 0, 0
+  index: -1
+shuxian3
+  rotate: false
+  xy: 2, 1035
+  size: 2856, 1603
+  orig: 2856, 1797
+  offset: 0, 194
+  index: -1
+xian3
+  rotate: false
+  xy: 1828, 830
+  size: 954, 202
+  orig: 954, 202
+  offset: 0, 0
+  index: -1
+xian6
+  rotate: false
+  xy: 306, 2533
+  size: 235, 105
+  orig: 235, 105
+  offset: 0, 0
+  index: -1
+xian7
+  rotate: false
+  xy: 466, 1204
+  size: 356, 174
+  orig: 356, 174
+  offset: 0, 0
+  index: -1
+xianhe
+  rotate: false
+  xy: 2, 1181
+  size: 462, 274
+  orig: 462, 274
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 2668, 2835
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+ye11
+  rotate: false
+  xy: 2668, 3507
+  size: 156, 201
+  orig: 156, 201
+  offset: 0, 0
+  index: -1
+ye12
+  rotate: false
+  xy: 3986, 3536
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+ye13
+  rotate: false
+  xy: 3986, 3336
+  size: 67, 89
+  orig: 67, 89
+  offset: 0, 0
+  index: -1
+ye14
+  rotate: true
+  xy: 3355, 3
+  size: 434, 413
+  orig: 434, 413
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 3986, 3609
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+ye20
+  rotate: true
+  xy: 3503, 1600
+  size: 233, 290
+  orig: 233, 290
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 2668, 3039
+  size: 139, 95
+  orig: 139, 95
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: false
+  xy: 2668, 2945
+  size: 138, 92
+  orig: 138, 92
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 1828, 77
+  size: 444, 217
+  orig: 444, 217
+  offset: 0, 0
+  index: -1
+ye6
+  rotate: false
+  xy: 3986, 3720
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+ye7
+  rotate: false
+  xy: 3986, 3818
+  size: 92, 117
+  orig: 92, 117
+  offset: 0, 0
+  index: -1
+ye9
+  rotate: false
+  xy: 3986, 3264
+  size: 85, 70
+  orig: 85, 70
+  offset: 0, 0
+  index: -1
+yinzhang
+  rotate: false
+  xy: 3503, 1835
+  size: 325, 341
+  orig: 325, 341
+  offset: 0, 0
+  index: -1
+
+xinzexi_4B2.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+he2
+  rotate: false
+  xy: 2, 1544
+  size: 2504, 788
+  orig: 2504, 788
+  offset: 0, 0
+  index: -1
+hua11
+  rotate: false
+  xy: 2496, 2854
+  size: 269, 312
+  orig: 269, 312
+  offset: 0, 0
+  index: -1
+shan2
+  rotate: false
+  xy: 2, 951
+  size: 1125, 710
+  orig: 1125, 710
+  offset: 0, 0
+  index: -1
+shan6
+  rotate: true
+  xy: 3183, 2188
+  size: 1606, 899
+  orig: 1606, 899
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 3213, 1693
+  size: 419, 493
+  orig: 419, 493
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: true
+  xy: 2421, 163
+  size: 2025, 1673
+  orig: 2025, 1673
+  offset: 0, 0
+  index: -1
+shuye1
+  rotate: false
+  xy: 849, 2914
+  size: 251, 252
+  orig: 251, 252
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 3168
+  size: 3042, 626
+  orig: 3042, 626
+  offset: 0, 0
+  index: -1
+xian10
+  rotate: false
+  xy: 2, 390
+  size: 829, 559
+  orig: 829, 559
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 2, 150
+  size: 1242, 238
+  orig: 1242, 238
+  offset: 0, 0
+  index: -1
+xian4
+  rotate: false
+  xy: 833, 390
+  size: 1309, 349
+  orig: 1309, 349
+  offset: 0, 0
+  index: -1
+xian5
+  rotate: false
+  xy: 2, 1452
+  size: 3209, 1715
+  orig: 3209, 1715
+  offset: 0, 0
+  index: -1
+ye15
+  rotate: false
+  xy: 1637, 2945
+  size: 260, 221
+  orig: 260, 221
+  offset: 0, 0
+  index: -1
+ye16
+  rotate: false
+  xy: 1384, 2928
+  size: 251, 239
+  orig: 251, 239
+  offset: 0, 0
+  index: -1
+ye8
+  rotate: false
+  xy: 1102, 2949
+  size: 280, 217
+  orig: 280, 217
+  offset: 0, 0
+  index: -1
+yue
+  rotate: false
+  xy: 3502, 3
+  size: 592, 592
+  orig: 592, 592
+  offset: 0, 0
+  index: -1
+yueguang
+  rotate: false
+  xy: 1128, 740
+  size: 843, 802
+  orig: 843, 802
+  offset: 0, 0
+  index: -1
+
+xinzexi_4B3.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu3
+  rotate: false
+  xy: 2, 3
+  size: 928, 1087
+  orig: 1121, 1087
+  offset: 0, 0
+  index: -1

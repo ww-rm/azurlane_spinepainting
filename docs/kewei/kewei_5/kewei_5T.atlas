@@ -1,0 +1,20 @@
+
+kewei_5T.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 626
+  size: 3874, 2298
+  orig: 3874, 2298
+  offset: 0, 0
+  index: -1
+jm1
+  rotate: false
+  xy: 2, 2
+  size: 1000, 622
+  orig: 1000, 622
+  offset: 0, 0
+  index: -1

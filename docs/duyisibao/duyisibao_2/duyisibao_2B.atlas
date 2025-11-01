@@ -1,0 +1,132 @@
+
+duyisibao_2B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGA
+  rotate: false
+  xy: 3159, 553
+  size: 661, 492
+  orig: 661, 492
+  offset: 0, 0
+  index: -1
+BGB
+  rotate: true
+  xy: 2, 19
+  size: 281, 632
+  orig: 281, 632
+  offset: 0, 0
+  index: -1
+BGC
+  rotate: true
+  xy: 1784, 2
+  size: 370, 531
+  orig: 370, 531
+  offset: 0, 0
+  index: -1
+BGD
+  rotate: false
+  xy: 2317, 48
+  size: 324, 325
+  orig: 324, 325
+  offset: 0, 0
+  index: -1
+BGE
+  rotate: false
+  xy: 636, 41
+  size: 252, 258
+  orig: 252, 258
+  offset: 0, 0
+  index: -1
+BGF
+  rotate: false
+  xy: 3159, 117
+  size: 656, 434
+  orig: 656, 434
+  offset: 0, 0
+  index: -1
+BGG
+  rotate: false
+  xy: 1698, 1994
+  size: 1463, 1309
+  orig: 1463, 1309
+  offset: 0, 0
+  index: -1
+BGH
+  rotate: false
+  xy: 2, 1934
+  size: 1694, 1370
+  orig: 1694, 1370
+  offset: 0, 0
+  index: -1
+BGI
+  rotate: true
+  xy: 2, 302
+  size: 928, 1054
+  orig: 928, 1054
+  offset: 0, 0
+  index: -1
+BGJ
+  rotate: false
+  xy: 1058, 39
+  size: 724, 334
+  orig: 724, 334
+  offset: 0, 0
+  index: -1
+BGK
+  rotate: false
+  xy: 1058, 375
+  size: 2099, 176
+  orig: 2099, 176
+  offset: 0, 0
+  index: -1
+BGL
+  rotate: false
+  xy: 2, 1232
+  size: 3151, 700
+  orig: 3151, 700
+  offset: 0, 0
+  index: -1
+chunhei
+  rotate: false
+  xy: 636, 3
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2027, 674
+  size: 554, 129
+  orig: 554, 129
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2027, 805
+  size: 1121, 426
+  orig: 1221, 461
+  offset: 50, 17
+  index: -1
+liziA
+  rotate: false
+  xy: 889, 154
+  size: 93, 145
+  orig: 93, 145
+  offset: 0, 0
+  index: -1
+plant
+  rotate: false
+  xy: 1058, 553
+  size: 967, 677
+  orig: 967, 677
+  offset: 0, 0
+  index: -1
+sofa
+  rotate: true
+  xy: 3163, 1337
+  size: 1967, 887
+  orig: 1968, 887
+  offset: 1, 0
+  index: -1

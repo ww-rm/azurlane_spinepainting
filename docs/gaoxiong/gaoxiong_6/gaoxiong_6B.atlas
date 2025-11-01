@@ -1,0 +1,41 @@
+
+gaoxiong_6B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanye_a
+  rotate: false
+  xy: 2, 2
+  size: 1907, 1716
+  orig: 1907, 1716
+  offset: 0, 0
+  index: -1
+zhishengji1
+  rotate: false
+  xy: 2, 1720
+  size: 3367, 1240
+  orig: 3367, 1240
+  offset: 0, 0
+  index: -1
+zhishengji2
+  rotate: false
+  xy: 1911, 148
+  size: 483, 472
+  orig: 483, 472
+  offset: 0, 0
+  index: -1
+zhishengjidengguang1
+  rotate: false
+  xy: 1911, 622
+  size: 524, 524
+  orig: 524, 524
+  offset: 0, 0
+  index: -1
+zhishengjidengguang2
+  rotate: false
+  xy: 1911, 1148
+  size: 716, 570
+  orig: 716, 570
+  offset: 0, 0
+  index: -1

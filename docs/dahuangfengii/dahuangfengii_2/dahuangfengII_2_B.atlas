@@ -1,0 +1,90 @@
+
+dahuangfengII_2_B.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_guan
+  rotate: false
+  xy: 1805, 2
+  size: 734, 508
+  orig: 734, 508
+  offset: 0, 0
+  index: -1
+BG_langhua_1
+  rotate: true
+  xy: 4018, 1526
+  size: 132, 59
+  orig: 132, 59
+  offset: 0, 0
+  index: -1
+BG_langhua_2
+  rotate: false
+  xy: 3222, 141
+  size: 468, 369
+  orig: 468, 369
+  offset: 0, 0
+  index: -1
+BG_shuihua_1
+  rotate: false
+  xy: 3769, 1230
+  size: 247, 428
+  orig: 247, 428
+  offset: 0, 0
+  index: -1
+BG_shuihua_2
+  rotate: false
+  xy: 3769, 527
+  size: 283, 233
+  orig: 283, 233
+  offset: 0, 0
+  index: -1
+BG_shuihua_3
+  rotate: true
+  xy: 3769, 1660
+  size: 544, 277
+  orig: 544, 277
+  offset: 0, 0
+  index: -1
+BG_shuihua_4
+  rotate: true
+  xy: 3769, 388
+  size: 137, 148
+  orig: 137, 148
+  offset: 0, 0
+  index: -1
+BG_shuihua_5
+  rotate: false
+  xy: 3769, 762
+  size: 217, 466
+  orig: 217, 466
+  offset: 0, 0
+  index: -1
+BG_shuimian
+  rotate: false
+  xy: 1987, 512
+  size: 1780, 1692
+  orig: 1780, 1692
+  offset: 0, 0
+  index: -1
+BG_sidai
+  rotate: true
+  xy: 2541, 11
+  size: 499, 679
+  orig: 499, 679
+  offset: 0, 0
+  index: -1
+BG_sky_1
+  rotate: false
+  xy: 2, 662
+  size: 1983, 1542
+  orig: 1983, 1542
+  offset: 0, 0
+  index: -1
+BG_sky_2
+  rotate: true
+  xy: 2, 65
+  size: 595, 1801
+  orig: 595, 1801
+  offset: 0, 0
+  index: -1

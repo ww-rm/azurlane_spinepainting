@@ -1,0 +1,20 @@
+
+mabuerheide_5B.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: true
+  xy: 1751, 1214
+  size: 297, 2059
+  orig: 297, 2059
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 2, 2
+  size: 1747, 1509
+  orig: 1747, 1509
+  offset: 0, 0
+  index: -1

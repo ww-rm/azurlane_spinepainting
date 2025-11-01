@@ -1,0 +1,90 @@
+
+lafeierT.png
+size: 2048,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cbguang
+  rotate: false
+  xy: 2, 572
+  size: 565, 422
+  orig: 565, 422
+  offset: 0, 0
+  index: -1
+cbqian
+  rotate: true
+  xy: 184, 198
+  size: 559, 972
+  orig: 570, 982
+  offset: 0, 0
+  index: -1
+ts_037
+  rotate: true
+  xy: 254, 1853
+  size: 1011, 628
+  orig: 1059, 894
+  offset: 0, 0
+  index: -1
+ts_037b
+  rotate: true
+  xy: 576, 705
+  size: 872, 625
+  orig: 1059, 894
+  offset: 168, 245
+  index: -1
+ts_037c
+  rotate: true
+  xy: 976, 1293
+  size: 549, 398
+  orig: 1059, 894
+  offset: 510, 496
+  index: -1
+ym1
+  rotate: false
+  xy: 2, 2783
+  size: 223, 227
+  orig: 223, 227
+  offset: 0, 0
+  index: -1
+ym3
+  rotate: true
+  xy: 2, 91
+  size: 303, 386
+  orig: 303, 386
+  offset: 0, 0
+  index: -1
+ym5
+  rotate: true
+  xy: 2, 3012
+  size: 745, 273
+  orig: 745, 273
+  offset: 0, 0
+  index: -1
+ym6
+  rotate: true
+  xy: 825, 3
+  size: 241, 371
+  orig: 241, 371
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: 180
+  xy: 823, 2186
+  size: 378, 1572
+  orig: 1183, 1815
+  offset: 0, 243
+  index: -1
+yumao2
+  rotate: 180
+  xy: 2, 997
+  size: 1183, 1241
+  orig: 1183, 1815
+  offset: 0, 574
+  index: -1
+yumao3
+  rotate: false
+  xy: 2, 1989
+  size: 838, 1769
+  orig: 1183, 1815
+  offset: 0, 46
+  index: -1
